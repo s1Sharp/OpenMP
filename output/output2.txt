@@ -1,0 +1,4 @@
+thread - 0, num threads - 3
+thread - 1, num threads - 3
+thread - 2, num threads - 3
+Thread - 0, num threads - 1

@@ -13,5 +13,29 @@ endif()
 
 
 
-add_executable(task1 task1/task1.cpp) # you can change the excutable name
-target_link_libraries(task1 PRIVATE OpenMP::OpenMP_CXX)
+add_executable(task1 task1.cpp) # you can change the excutable name
+target_link_libraries(task1 PUBLIC OpenMP::OpenMP_CXX)
+
+add_executable(task2 task2.cpp) # you can change the excutable name
+target_link_libraries(task2 PUBLIC OpenMP::OpenMP_CXX)
+
+add_executable(task3 task3.cpp) # you can change the excutable name
+target_link_libraries(task3 PUBLIC OpenMP::OpenMP_CXX)
+
+add_executable(task4 task4.cpp) # you can change the excutable name
+target_link_libraries(task4 PUBLIC OpenMP::OpenMP_CXX)
+
+add_executable(task5 task5.cpp) # you can change the excutable name
+target_link_libraries(task5 PUBLIC OpenMP::OpenMP_CXX)
+
+add_executable(task6 task6.cpp) # you can change the excutable name
+target_link_libraries(task6 PUBLIC OpenMP::OpenMP_CXX)
+
+add_executable(task7 task7.cpp) # you can change the excutable name
+target_link_libraries(task7 PUBLIC OpenMP::OpenMP_CXX)
+
+add_executable(task8 task8.cpp) # you can change the excutable name
+target_link_libraries(task8 PUBLIC OpenMP::OpenMP_CXX)
+
+add_executable(task9 task9.cpp) # you can change the excutable name
+target_link_libraries(task9 PUBLIC OpenMP::OpenMP_CXX)

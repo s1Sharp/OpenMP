@@ -1,0 +1,3005 @@
+	Option STATIC, time: 490.4185 msec
+	Option DYNAMIC, time: 39.4352 msec
+	Option GUIDED, time: 34.9543 msec
+	Option RUNTIME, time: 25.6389 msec
+BETTER OPTION 4, BETTER TIME 25.6389 msec, CHUNK_SIZE = 0
+
+	Option STATIC, time: 46.4722 msec
+	Option DYNAMIC, time: 39.4436 msec
+	Option GUIDED, time: 32.0651 msec
+	Option RUNTIME, time: 33.5222 msec
+BETTER OPTION 3, BETTER TIME 32.0651 msec, CHUNK_SIZE = 1
+
+	Option STATIC, time: 38.1355 msec
+	Option DYNAMIC, time: 46.6257 msec
+	Option GUIDED, time: 25.9495 msec
+	Option RUNTIME, time: 16.1231 msec
+BETTER OPTION 4, BETTER TIME 16.1231 msec, CHUNK_SIZE = 2
+
+	Option STATIC, time: 12.0720 msec
+	Option DYNAMIC, time: 37.9703 msec
+	Option GUIDED, time: 6.6370 msec
+	Option RUNTIME, time: 20.0414 msec
+BETTER OPTION 3, BETTER TIME 6.6370 msec, CHUNK_SIZE = 3
+
+	Option STATIC, time: 66.3748 msec
+	Option DYNAMIC, time: 14.7431 msec
+	Option GUIDED, time: 20.5337 msec
+	Option RUNTIME, time: 8.6353 msec
+BETTER OPTION 4, BETTER TIME 8.6353 msec, CHUNK_SIZE = 4
+
+	Option STATIC, time: 39.0567 msec
+	Option DYNAMIC, time: 42.5947 msec
+	Option GUIDED, time: 38.4514 msec
+	Option RUNTIME, time: 60.5428 msec
+BETTER OPTION 3, BETTER TIME 38.4514 msec, CHUNK_SIZE = 5
+
+	Option STATIC, time: 83.0165 msec
+	Option DYNAMIC, time: 20.5872 msec
+	Option GUIDED, time: 31.9426 msec
+	Option RUNTIME, time: 12.9152 msec
+BETTER OPTION 4, BETTER TIME 12.9152 msec, CHUNK_SIZE = 6
+
+	Option STATIC, time: 28.6698 msec
+	Option DYNAMIC, time: 26.4707 msec
+	Option GUIDED, time: 48.0240 msec
+	Option RUNTIME, time: 13.3112 msec
+BETTER OPTION 4, BETTER TIME 13.3112 msec, CHUNK_SIZE = 7
+
+	Option STATIC, time: 24.7115 msec
+	Option DYNAMIC, time: 11.7294 msec
+	Option GUIDED, time: 8.8995 msec
+	Option RUNTIME, time: 13.1722 msec
+BETTER OPTION 3, BETTER TIME 8.8995 msec, CHUNK_SIZE = 8
+
+	Option STATIC, time: 19.0025 msec
+	Option DYNAMIC, time: 7.7156 msec
+	Option GUIDED, time: 5.6058 msec
+	Option RUNTIME, time: 15.5906 msec
+BETTER OPTION 3, BETTER TIME 5.6058 msec, CHUNK_SIZE = 9
+
+	Option STATIC, time: 13.1573 msec
+	Option DYNAMIC, time: 15.1918 msec
+	Option GUIDED, time: 8.4131 msec
+	Option RUNTIME, time: 11.5512 msec
+BETTER OPTION 3, BETTER TIME 8.4131 msec, CHUNK_SIZE = 10
+
+	Option STATIC, time: 16.8173 msec
+	Option DYNAMIC, time: 19.6534 msec
+	Option GUIDED, time: 25.1810 msec
+	Option RUNTIME, time: 5.4737 msec
+BETTER OPTION 4, BETTER TIME 5.4737 msec, CHUNK_SIZE = 11
+
+	Option STATIC, time: 10.9934 msec
+	Option DYNAMIC, time: 7.0790 msec
+	Option GUIDED, time: 20.5832 msec
+	Option RUNTIME, time: 7.4744 msec
+BETTER OPTION 2, BETTER TIME 7.0790 msec, CHUNK_SIZE = 12
+
+	Option STATIC, time: 32.9930 msec
+	Option DYNAMIC, time: 4.0182 msec
+	Option GUIDED, time: 6.1270 msec
+	Option RUNTIME, time: 14.7445 msec
+BETTER OPTION 2, BETTER TIME 4.0182 msec, CHUNK_SIZE = 13
+
+	Option STATIC, time: 27.6332 msec
+	Option DYNAMIC, time: 2.9872 msec
+	Option GUIDED, time: 9.2247 msec
+	Option RUNTIME, time: 3.3483 msec
+BETTER OPTION 2, BETTER TIME 2.9872 msec, CHUNK_SIZE = 14
+
+	Option STATIC, time: 23.8597 msec
+	Option DYNAMIC, time: 13.8656 msec
+	Option GUIDED, time: 9.6042 msec
+	Option RUNTIME, time: 11.1309 msec
+BETTER OPTION 3, BETTER TIME 9.6042 msec, CHUNK_SIZE = 15
+
+	Option STATIC, time: 24.6747 msec
+	Option DYNAMIC, time: 14.3875 msec
+	Option GUIDED, time: 4.3261 msec
+	Option RUNTIME, time: 21.5569 msec
+BETTER OPTION 3, BETTER TIME 4.3261 msec, CHUNK_SIZE = 16
+
+	Option STATIC, time: 23.5772 msec
+	Option DYNAMIC, time: 25.8491 msec
+	Option GUIDED, time: 13.0520 msec
+	Option RUNTIME, time: 15.1665 msec
+BETTER OPTION 3, BETTER TIME 13.0520 msec, CHUNK_SIZE = 17
+
+	Option STATIC, time: 14.5575 msec
+	Option DYNAMIC, time: 8.2121 msec
+	Option GUIDED, time: 13.2736 msec
+	Option RUNTIME, time: 15.6897 msec
+BETTER OPTION 2, BETTER TIME 8.2121 msec, CHUNK_SIZE = 18
+
+	Option STATIC, time: 26.9951 msec
+	Option DYNAMIC, time: 17.7725 msec
+	Option GUIDED, time: 7.2565 msec
+	Option RUNTIME, time: 10.8910 msec
+BETTER OPTION 3, BETTER TIME 7.2565 msec, CHUNK_SIZE = 19
+
+	Option STATIC, time: 39.6505 msec
+	Option DYNAMIC, time: 15.4698 msec
+	Option GUIDED, time: 13.7445 msec
+	Option RUNTIME, time: 23.2739 msec
+BETTER OPTION 3, BETTER TIME 13.7445 msec, CHUNK_SIZE = 20
+
+	Option STATIC, time: 22.1959 msec
+	Option DYNAMIC, time: 26.0112 msec
+	Option GUIDED, time: 14.1109 msec
+	Option RUNTIME, time: 7.9996 msec
+BETTER OPTION 4, BETTER TIME 7.9996 msec, CHUNK_SIZE = 21
+
+	Option STATIC, time: 15.2031 msec
+	Option DYNAMIC, time: 13.7889 msec
+	Option GUIDED, time: 10.7077 msec
+	Option RUNTIME, time: 4.2715 msec
+BETTER OPTION 4, BETTER TIME 4.2715 msec, CHUNK_SIZE = 22
+
+	Option STATIC, time: 15.2526 msec
+	Option DYNAMIC, time: 9.0954 msec
+	Option GUIDED, time: 26.1809 msec
+	Option RUNTIME, time: 7.2979 msec
+BETTER OPTION 4, BETTER TIME 7.2979 msec, CHUNK_SIZE = 23
+
+	Option STATIC, time: 32.0207 msec
+	Option DYNAMIC, time: 12.9947 msec
+	Option GUIDED, time: 10.0320 msec
+	Option RUNTIME, time: 18.6259 msec
+BETTER OPTION 3, BETTER TIME 10.0320 msec, CHUNK_SIZE = 24
+
+	Option STATIC, time: 3.3341 msec
+	Option DYNAMIC, time: 28.5113 msec
+	Option GUIDED, time: 32.3942 msec
+	Option RUNTIME, time: 6.1531 msec
+BETTER OPTION 1, BETTER TIME 3.3341 msec, CHUNK_SIZE = 25
+
+	Option STATIC, time: 15.7604 msec
+	Option DYNAMIC, time: 37.4122 msec
+	Option GUIDED, time: 9.6041 msec
+	Option RUNTIME, time: 33.2851 msec
+BETTER OPTION 3, BETTER TIME 9.6041 msec, CHUNK_SIZE = 26
+
+	Option STATIC, time: 46.9761 msec
+	Option DYNAMIC, time: 20.2494 msec
+	Option GUIDED, time: 7.4912 msec
+	Option RUNTIME, time: 32.4987 msec
+BETTER OPTION 3, BETTER TIME 7.4912 msec, CHUNK_SIZE = 27
+
+	Option STATIC, time: 51.1306 msec
+	Option DYNAMIC, time: 7.9578 msec
+	Option GUIDED, time: 16.3989 msec
+	Option RUNTIME, time: 14.9230 msec
+BETTER OPTION 2, BETTER TIME 7.9578 msec, CHUNK_SIZE = 28
+
+	Option STATIC, time: 9.4450 msec
+	Option DYNAMIC, time: 26.9256 msec
+	Option GUIDED, time: 16.8443 msec
+	Option RUNTIME, time: 6.5758 msec
+BETTER OPTION 4, BETTER TIME 6.5758 msec, CHUNK_SIZE = 29
+
+	Option STATIC, time: 12.4376 msec
+	Option DYNAMIC, time: 28.8136 msec
+	Option GUIDED, time: 13.1614 msec
+	Option RUNTIME, time: 7.7315 msec
+BETTER OPTION 4, BETTER TIME 7.7315 msec, CHUNK_SIZE = 30
+
+	Option STATIC, time: 30.2229 msec
+	Option DYNAMIC, time: 5.6263 msec
+	Option GUIDED, time: 8.5069 msec
+	Option RUNTIME, time: 15.2318 msec
+BETTER OPTION 2, BETTER TIME 5.6263 msec, CHUNK_SIZE = 31
+
+	Option STATIC, time: 17.2330 msec
+	Option DYNAMIC, time: 6.6722 msec
+	Option GUIDED, time: 13.9830 msec
+	Option RUNTIME, time: 6.4997 msec
+BETTER OPTION 4, BETTER TIME 6.4997 msec, CHUNK_SIZE = 32
+
+	Option STATIC, time: 7.1759 msec
+	Option DYNAMIC, time: 32.7561 msec
+	Option GUIDED, time: 25.5260 msec
+	Option RUNTIME, time: 37.8871 msec
+BETTER OPTION 1, BETTER TIME 7.1759 msec, CHUNK_SIZE = 33
+
+	Option STATIC, time: 13.3554 msec
+	Option DYNAMIC, time: 11.1432 msec
+	Option GUIDED, time: 33.0750 msec
+	Option RUNTIME, time: 20.4575 msec
+BETTER OPTION 2, BETTER TIME 11.1432 msec, CHUNK_SIZE = 34
+
+	Option STATIC, time: 34.7323 msec
+	Option DYNAMIC, time: 24.0316 msec
+	Option GUIDED, time: 15.4513 msec
+	Option RUNTIME, time: 36.0269 msec
+BETTER OPTION 3, BETTER TIME 15.4513 msec, CHUNK_SIZE = 35
+
+	Option STATIC, time: 28.8297 msec
+	Option DYNAMIC, time: 45.4363 msec
+	Option GUIDED, time: 23.9959 msec
+	Option RUNTIME, time: 42.0673 msec
+BETTER OPTION 3, BETTER TIME 23.9959 msec, CHUNK_SIZE = 36
+
+	Option STATIC, time: 59.0537 msec
+	Option DYNAMIC, time: 42.8818 msec
+	Option GUIDED, time: 57.7279 msec
+	Option RUNTIME, time: 41.7437 msec
+BETTER OPTION 4, BETTER TIME 41.7437 msec, CHUNK_SIZE = 37
+
+	Option STATIC, time: 36.4511 msec
+	Option DYNAMIC, time: 13.4941 msec
+	Option GUIDED, time: 36.2474 msec
+	Option RUNTIME, time: 9.7624 msec
+BETTER OPTION 4, BETTER TIME 9.7624 msec, CHUNK_SIZE = 38
+
+	Option STATIC, time: 21.4293 msec
+	Option DYNAMIC, time: 16.4156 msec
+	Option GUIDED, time: 15.1330 msec
+	Option RUNTIME, time: 13.7372 msec
+BETTER OPTION 4, BETTER TIME 13.7372 msec, CHUNK_SIZE = 39
+
+	Option STATIC, time: 10.4098 msec
+	Option DYNAMIC, time: 18.1474 msec
+	Option GUIDED, time: 21.3796 msec
+	Option RUNTIME, time: 44.9856 msec
+BETTER OPTION 1, BETTER TIME 10.4098 msec, CHUNK_SIZE = 40
+
+	Option STATIC, time: 17.4314 msec
+	Option DYNAMIC, time: 16.4475 msec
+	Option GUIDED, time: 12.5490 msec
+	Option RUNTIME, time: 4.3697 msec
+BETTER OPTION 4, BETTER TIME 4.3697 msec, CHUNK_SIZE = 41
+
+	Option STATIC, time: 24.6387 msec
+	Option DYNAMIC, time: 22.0605 msec
+	Option GUIDED, time: 10.7039 msec
+	Option RUNTIME, time: 10.4181 msec
+BETTER OPTION 4, BETTER TIME 10.4181 msec, CHUNK_SIZE = 42
+
+	Option STATIC, time: 39.1499 msec
+	Option DYNAMIC, time: 17.8642 msec
+	Option GUIDED, time: 4.3375 msec
+	Option RUNTIME, time: 15.3478 msec
+BETTER OPTION 3, BETTER TIME 4.3375 msec, CHUNK_SIZE = 43
+
+	Option STATIC, time: 17.2609 msec
+	Option DYNAMIC, time: 16.7841 msec
+	Option GUIDED, time: 4.8705 msec
+	Option RUNTIME, time: 13.1336 msec
+BETTER OPTION 3, BETTER TIME 4.8705 msec, CHUNK_SIZE = 44
+
+	Option STATIC, time: 23.0039 msec
+	Option DYNAMIC, time: 11.9056 msec
+	Option GUIDED, time: 2.7848 msec
+	Option RUNTIME, time: 12.8606 msec
+BETTER OPTION 3, BETTER TIME 2.7848 msec, CHUNK_SIZE = 45
+
+	Option STATIC, time: 12.5862 msec
+	Option DYNAMIC, time: 6.4171 msec
+	Option GUIDED, time: 17.0786 msec
+	Option RUNTIME, time: 30.2178 msec
+BETTER OPTION 2, BETTER TIME 6.4171 msec, CHUNK_SIZE = 46
+
+	Option STATIC, time: 10.2841 msec
+	Option DYNAMIC, time: 2.5354 msec
+	Option GUIDED, time: 18.9036 msec
+	Option RUNTIME, time: 11.1404 msec
+BETTER OPTION 2, BETTER TIME 2.5354 msec, CHUNK_SIZE = 47
+
+	Option STATIC, time: 21.0553 msec
+	Option DYNAMIC, time: 7.7886 msec
+	Option GUIDED, time: 20.7633 msec
+	Option RUNTIME, time: 9.6353 msec
+BETTER OPTION 2, BETTER TIME 7.7886 msec, CHUNK_SIZE = 48
+
+	Option STATIC, time: 17.2634 msec
+	Option DYNAMIC, time: 8.2716 msec
+	Option GUIDED, time: 7.6506 msec
+	Option RUNTIME, time: 10.0017 msec
+BETTER OPTION 3, BETTER TIME 7.6506 msec, CHUNK_SIZE = 49
+
+	Option STATIC, time: 14.4237 msec
+	Option DYNAMIC, time: 19.3876 msec
+	Option GUIDED, time: 7.4406 msec
+	Option RUNTIME, time: 10.4196 msec
+BETTER OPTION 3, BETTER TIME 7.4406 msec, CHUNK_SIZE = 50
+
+	Option STATIC, time: 15.5079 msec
+	Option DYNAMIC, time: 4.6993 msec
+	Option GUIDED, time: 3.7991 msec
+	Option RUNTIME, time: 13.4831 msec
+BETTER OPTION 3, BETTER TIME 3.7991 msec, CHUNK_SIZE = 51
+
+	Option STATIC, time: 18.0059 msec
+	Option DYNAMIC, time: 16.4019 msec
+	Option GUIDED, time: 9.1533 msec
+	Option RUNTIME, time: 13.9396 msec
+BETTER OPTION 3, BETTER TIME 9.1533 msec, CHUNK_SIZE = 52
+
+	Option STATIC, time: 19.8128 msec
+	Option DYNAMIC, time: 13.5669 msec
+	Option GUIDED, time: 26.4246 msec
+	Option RUNTIME, time: 8.2026 msec
+BETTER OPTION 4, BETTER TIME 8.2026 msec, CHUNK_SIZE = 53
+
+	Option STATIC, time: 16.0606 msec
+	Option DYNAMIC, time: 9.5707 msec
+	Option GUIDED, time: 16.8194 msec
+	Option RUNTIME, time: 9.4033 msec
+BETTER OPTION 4, BETTER TIME 9.4033 msec, CHUNK_SIZE = 54
+
+	Option STATIC, time: 24.6761 msec
+	Option DYNAMIC, time: 9.9243 msec
+	Option GUIDED, time: 7.9659 msec
+	Option RUNTIME, time: 25.4362 msec
+BETTER OPTION 3, BETTER TIME 7.9659 msec, CHUNK_SIZE = 55
+
+	Option STATIC, time: 21.6422 msec
+	Option DYNAMIC, time: 42.1358 msec
+	Option GUIDED, time: 17.4228 msec
+	Option RUNTIME, time: 24.0759 msec
+BETTER OPTION 3, BETTER TIME 17.4228 msec, CHUNK_SIZE = 56
+
+	Option STATIC, time: 27.1056 msec
+	Option DYNAMIC, time: 11.0572 msec
+	Option GUIDED, time: 5.3184 msec
+	Option RUNTIME, time: 29.9764 msec
+BETTER OPTION 3, BETTER TIME 5.3184 msec, CHUNK_SIZE = 57
+
+	Option STATIC, time: 11.0551 msec
+	Option DYNAMIC, time: 6.7227 msec
+	Option GUIDED, time: 33.8636 msec
+	Option RUNTIME, time: 28.0275 msec
+BETTER OPTION 2, BETTER TIME 6.7227 msec, CHUNK_SIZE = 58
+
+	Option STATIC, time: 24.8969 msec
+	Option DYNAMIC, time: 25.2596 msec
+	Option GUIDED, time: 5.8985 msec
+	Option RUNTIME, time: 14.3408 msec
+BETTER OPTION 3, BETTER TIME 5.8985 msec, CHUNK_SIZE = 59
+
+	Option STATIC, time: 46.4306 msec
+	Option DYNAMIC, time: 17.1197 msec
+	Option GUIDED, time: 17.2419 msec
+	Option RUNTIME, time: 23.0202 msec
+BETTER OPTION 2, BETTER TIME 17.1197 msec, CHUNK_SIZE = 60
+
+	Option STATIC, time: 16.3572 msec
+	Option DYNAMIC, time: 23.3079 msec
+	Option GUIDED, time: 15.2898 msec
+	Option RUNTIME, time: 18.6843 msec
+BETTER OPTION 3, BETTER TIME 15.2898 msec, CHUNK_SIZE = 61
+
+	Option STATIC, time: 24.0911 msec
+	Option DYNAMIC, time: 21.7972 msec
+	Option GUIDED, time: 13.3375 msec
+	Option RUNTIME, time: 10.6810 msec
+BETTER OPTION 4, BETTER TIME 10.6810 msec, CHUNK_SIZE = 62
+
+	Option STATIC, time: 24.7233 msec
+	Option DYNAMIC, time: 4.2293 msec
+	Option GUIDED, time: 7.1125 msec
+	Option RUNTIME, time: 14.3768 msec
+BETTER OPTION 2, BETTER TIME 4.2293 msec, CHUNK_SIZE = 63
+
+	Option STATIC, time: 23.4531 msec
+	Option DYNAMIC, time: 6.0518 msec
+	Option GUIDED, time: 22.5344 msec
+	Option RUNTIME, time: 16.0818 msec
+BETTER OPTION 2, BETTER TIME 6.0518 msec, CHUNK_SIZE = 64
+
+	Option STATIC, time: 22.4440 msec
+	Option DYNAMIC, time: 11.9525 msec
+	Option GUIDED, time: 16.6050 msec
+	Option RUNTIME, time: 33.4798 msec
+BETTER OPTION 2, BETTER TIME 11.9525 msec, CHUNK_SIZE = 65
+
+	Option STATIC, time: 24.6166 msec
+	Option DYNAMIC, time: 15.0637 msec
+	Option GUIDED, time: 30.4722 msec
+	Option RUNTIME, time: 5.6362 msec
+BETTER OPTION 4, BETTER TIME 5.6362 msec, CHUNK_SIZE = 66
+
+	Option STATIC, time: 59.6679 msec
+	Option DYNAMIC, time: 20.4739 msec
+	Option GUIDED, time: 33.4321 msec
+	Option RUNTIME, time: 23.5633 msec
+BETTER OPTION 2, BETTER TIME 20.4739 msec, CHUNK_SIZE = 67
+
+	Option STATIC, time: 24.1716 msec
+	Option DYNAMIC, time: 29.0377 msec
+	Option GUIDED, time: 5.9504 msec
+	Option RUNTIME, time: 68.0756 msec
+BETTER OPTION 3, BETTER TIME 5.9504 msec, CHUNK_SIZE = 68
+
+	Option STATIC, time: 25.8870 msec
+	Option DYNAMIC, time: 36.7235 msec
+	Option GUIDED, time: 33.3903 msec
+	Option RUNTIME, time: 19.0783 msec
+BETTER OPTION 4, BETTER TIME 19.0783 msec, CHUNK_SIZE = 69
+
+	Option STATIC, time: 51.3848 msec
+	Option DYNAMIC, time: 27.4670 msec
+	Option GUIDED, time: 3.8331 msec
+	Option RUNTIME, time: 16.3139 msec
+BETTER OPTION 3, BETTER TIME 3.8331 msec, CHUNK_SIZE = 70
+
+	Option STATIC, time: 12.3262 msec
+	Option DYNAMIC, time: 13.2165 msec
+	Option GUIDED, time: 11.8606 msec
+	Option RUNTIME, time: 13.1155 msec
+BETTER OPTION 3, BETTER TIME 11.8606 msec, CHUNK_SIZE = 71
+
+	Option STATIC, time: 9.4783 msec
+	Option DYNAMIC, time: 11.5054 msec
+	Option GUIDED, time: 7.8998 msec
+	Option RUNTIME, time: 8.4132 msec
+BETTER OPTION 3, BETTER TIME 7.8998 msec, CHUNK_SIZE = 72
+
+	Option STATIC, time: 15.0500 msec
+	Option DYNAMIC, time: 13.4887 msec
+	Option GUIDED, time: 3.6659 msec
+	Option RUNTIME, time: 16.2583 msec
+BETTER OPTION 3, BETTER TIME 3.6659 msec, CHUNK_SIZE = 73
+
+	Option STATIC, time: 22.0493 msec
+	Option DYNAMIC, time: 15.0353 msec
+	Option GUIDED, time: 8.2324 msec
+	Option RUNTIME, time: 9.9755 msec
+BETTER OPTION 3, BETTER TIME 8.2324 msec, CHUNK_SIZE = 74
+
+	Option STATIC, time: 10.3409 msec
+	Option DYNAMIC, time: 15.9827 msec
+	Option GUIDED, time: 7.0314 msec
+	Option RUNTIME, time: 19.9705 msec
+BETTER OPTION 3, BETTER TIME 7.0314 msec, CHUNK_SIZE = 75
+
+	Option STATIC, time: 5.5251 msec
+	Option DYNAMIC, time: 14.9067 msec
+	Option GUIDED, time: 5.1198 msec
+	Option RUNTIME, time: 26.2215 msec
+BETTER OPTION 3, BETTER TIME 5.1198 msec, CHUNK_SIZE = 76
+
+	Option STATIC, time: 9.6421 msec
+	Option DYNAMIC, time: 10.1851 msec
+	Option GUIDED, time: 11.1196 msec
+	Option RUNTIME, time: 11.3460 msec
+BETTER OPTION 1, BETTER TIME 9.6421 msec, CHUNK_SIZE = 77
+
+	Option STATIC, time: 14.1283 msec
+	Option DYNAMIC, time: 11.6748 msec
+	Option GUIDED, time: 6.0801 msec
+	Option RUNTIME, time: 10.4017 msec
+BETTER OPTION 3, BETTER TIME 6.0801 msec, CHUNK_SIZE = 78
+
+	Option STATIC, time: 18.1666 msec
+	Option DYNAMIC, time: 55.6376 msec
+	Option GUIDED, time: 122.6193 msec
+	Option RUNTIME, time: 27.3998 msec
+BETTER OPTION 1, BETTER TIME 18.1666 msec, CHUNK_SIZE = 79
+
+	Option STATIC, time: 23.5657 msec
+	Option DYNAMIC, time: 26.1378 msec
+	Option GUIDED, time: 13.9986 msec
+	Option RUNTIME, time: 16.5926 msec
+BETTER OPTION 3, BETTER TIME 13.9986 msec, CHUNK_SIZE = 80
+
+	Option STATIC, time: 26.7808 msec
+	Option DYNAMIC, time: 17.2499 msec
+	Option GUIDED, time: 30.1422 msec
+	Option RUNTIME, time: 11.7835 msec
+BETTER OPTION 4, BETTER TIME 11.7835 msec, CHUNK_SIZE = 81
+
+	Option STATIC, time: 24.5831 msec
+	Option DYNAMIC, time: 5.0292 msec
+	Option GUIDED, time: 8.8445 msec
+	Option RUNTIME, time: 16.8191 msec
+BETTER OPTION 2, BETTER TIME 5.0292 msec, CHUNK_SIZE = 82
+
+	Option STATIC, time: 17.5157 msec
+	Option DYNAMIC, time: 4.7495 msec
+	Option GUIDED, time: 10.1025 msec
+	Option RUNTIME, time: 18.8372 msec
+BETTER OPTION 2, BETTER TIME 4.7495 msec, CHUNK_SIZE = 83
+
+	Option STATIC, time: 54.6976 msec
+	Option DYNAMIC, time: 14.4722 msec
+	Option GUIDED, time: 20.7660 msec
+	Option RUNTIME, time: 31.5470 msec
+BETTER OPTION 2, BETTER TIME 14.4722 msec, CHUNK_SIZE = 84
+
+	Option STATIC, time: 19.8006 msec
+	Option DYNAMIC, time: 14.0084 msec
+	Option GUIDED, time: 15.2682 msec
+	Option RUNTIME, time: 10.6915 msec
+BETTER OPTION 4, BETTER TIME 10.6915 msec, CHUNK_SIZE = 85
+
+	Option STATIC, time: 25.5433 msec
+	Option DYNAMIC, time: 19.0622 msec
+	Option GUIDED, time: 20.3700 msec
+	Option RUNTIME, time: 25.8131 msec
+BETTER OPTION 2, BETTER TIME 19.0622 msec, CHUNK_SIZE = 86
+
+	Option STATIC, time: 42.6133 msec
+	Option DYNAMIC, time: 31.4522 msec
+	Option GUIDED, time: 22.0013 msec
+	Option RUNTIME, time: 18.9023 msec
+BETTER OPTION 4, BETTER TIME 18.9023 msec, CHUNK_SIZE = 87
+
+	Option STATIC, time: 24.4702 msec
+	Option DYNAMIC, time: 50.4730 msec
+	Option GUIDED, time: 38.8504 msec
+	Option RUNTIME, time: 11.5758 msec
+BETTER OPTION 4, BETTER TIME 11.5758 msec, CHUNK_SIZE = 88
+
+	Option STATIC, time: 41.0521 msec
+	Option DYNAMIC, time: 23.6897 msec
+	Option GUIDED, time: 8.0154 msec
+	Option RUNTIME, time: 30.3571 msec
+BETTER OPTION 3, BETTER TIME 8.0154 msec, CHUNK_SIZE = 89
+
+	Option STATIC, time: 19.0632 msec
+	Option DYNAMIC, time: 42.5175 msec
+	Option GUIDED, time: 19.9274 msec
+	Option RUNTIME, time: 16.6951 msec
+BETTER OPTION 4, BETTER TIME 16.6951 msec, CHUNK_SIZE = 90
+
+	Option STATIC, time: 34.3103 msec
+	Option DYNAMIC, time: 24.7083 msec
+	Option GUIDED, time: 58.2592 msec
+	Option RUNTIME, time: 33.6788 msec
+BETTER OPTION 2, BETTER TIME 24.7083 msec, CHUNK_SIZE = 91
+
+	Option STATIC, time: 25.1050 msec
+	Option DYNAMIC, time: 39.7562 msec
+	Option GUIDED, time: 17.8528 msec
+	Option RUNTIME, time: 47.6826 msec
+BETTER OPTION 3, BETTER TIME 17.8528 msec, CHUNK_SIZE = 92
+
+	Option STATIC, time: 43.0199 msec
+	Option DYNAMIC, time: 68.6908 msec
+	Option GUIDED, time: 26.3553 msec
+	Option RUNTIME, time: 20.9344 msec
+BETTER OPTION 4, BETTER TIME 20.9344 msec, CHUNK_SIZE = 93
+
+	Option STATIC, time: 61.0690 msec
+	Option DYNAMIC, time: 38.2291 msec
+	Option GUIDED, time: 41.1578 msec
+	Option RUNTIME, time: 31.7167 msec
+BETTER OPTION 4, BETTER TIME 31.7167 msec, CHUNK_SIZE = 94
+
+	Option STATIC, time: 58.1753 msec
+	Option DYNAMIC, time: 32.9955 msec
+	Option GUIDED, time: 76.9249 msec
+	Option RUNTIME, time: 15.6006 msec
+BETTER OPTION 4, BETTER TIME 15.6006 msec, CHUNK_SIZE = 95
+
+	Option STATIC, time: 33.3339 msec
+	Option DYNAMIC, time: 26.5354 msec
+	Option GUIDED, time: 25.7471 msec
+	Option RUNTIME, time: 33.9033 msec
+BETTER OPTION 3, BETTER TIME 25.7471 msec, CHUNK_SIZE = 96
+
+	Option STATIC, time: 49.7229 msec
+	Option DYNAMIC, time: 32.8225 msec
+	Option GUIDED, time: 6.6117 msec
+	Option RUNTIME, time: 33.6635 msec
+BETTER OPTION 3, BETTER TIME 6.6117 msec, CHUNK_SIZE = 97
+
+	Option STATIC, time: 49.4677 msec
+	Option DYNAMIC, time: 41.8848 msec
+	Option GUIDED, time: 6.8651 msec
+	Option RUNTIME, time: 35.9299 msec
+BETTER OPTION 3, BETTER TIME 6.8651 msec, CHUNK_SIZE = 98
+
+	Option STATIC, time: 35.2551 msec
+	Option DYNAMIC, time: 39.9709 msec
+	Option GUIDED, time: 18.9204 msec
+	Option RUNTIME, time: 30.5622 msec
+BETTER OPTION 3, BETTER TIME 18.9204 msec, CHUNK_SIZE = 99
+
+	Option STATIC, time: 40.6003 msec
+	Option DYNAMIC, time: 23.4660 msec
+	Option GUIDED, time: 19.1163 msec
+	Option RUNTIME, time: 21.3710 msec
+BETTER OPTION 3, BETTER TIME 19.1163 msec, CHUNK_SIZE = 100
+
+	Option STATIC, time: 55.2081 msec
+	Option DYNAMIC, time: 32.5984 msec
+	Option GUIDED, time: 27.8527 msec
+	Option RUNTIME, time: 21.5170 msec
+BETTER OPTION 4, BETTER TIME 21.5170 msec, CHUNK_SIZE = 101
+
+	Option STATIC, time: 41.1774 msec
+	Option DYNAMIC, time: 36.1768 msec
+	Option GUIDED, time: 22.7992 msec
+	Option RUNTIME, time: 27.6411 msec
+BETTER OPTION 3, BETTER TIME 22.7992 msec, CHUNK_SIZE = 102
+
+	Option STATIC, time: 12.2127 msec
+	Option DYNAMIC, time: 8.2865 msec
+	Option GUIDED, time: 8.0086 msec
+	Option RUNTIME, time: 11.4302 msec
+BETTER OPTION 3, BETTER TIME 8.0086 msec, CHUNK_SIZE = 103
+
+	Option STATIC, time: 9.9087 msec
+	Option DYNAMIC, time: 10.6981 msec
+	Option GUIDED, time: 2.9363 msec
+	Option RUNTIME, time: 14.6913 msec
+BETTER OPTION 3, BETTER TIME 2.9363 msec, CHUNK_SIZE = 104
+
+	Option STATIC, time: 15.3380 msec
+	Option DYNAMIC, time: 8.4673 msec
+	Option GUIDED, time: 31.9781 msec
+	Option RUNTIME, time: 9.7949 msec
+BETTER OPTION 2, BETTER TIME 8.4673 msec, CHUNK_SIZE = 105
+
+	Option STATIC, time: 9.8990 msec
+	Option DYNAMIC, time: 6.2188 msec
+	Option GUIDED, time: 5.2579 msec
+	Option RUNTIME, time: 12.7709 msec
+BETTER OPTION 3, BETTER TIME 5.2579 msec, CHUNK_SIZE = 106
+
+	Option STATIC, time: 6.4057 msec
+	Option DYNAMIC, time: 7.0667 msec
+	Option GUIDED, time: 11.7737 msec
+	Option RUNTIME, time: 10.6219 msec
+BETTER OPTION 1, BETTER TIME 6.4057 msec, CHUNK_SIZE = 107
+
+	Option STATIC, time: 13.1850 msec
+	Option DYNAMIC, time: 4.4031 msec
+	Option GUIDED, time: 8.9462 msec
+	Option RUNTIME, time: 9.4123 msec
+BETTER OPTION 2, BETTER TIME 4.4031 msec, CHUNK_SIZE = 108
+
+	Option STATIC, time: 19.1209 msec
+	Option DYNAMIC, time: 8.2746 msec
+	Option GUIDED, time: 6.9107 msec
+	Option RUNTIME, time: 29.5453 msec
+BETTER OPTION 3, BETTER TIME 6.9107 msec, CHUNK_SIZE = 109
+
+	Option STATIC, time: 14.3406 msec
+	Option DYNAMIC, time: 16.5155 msec
+	Option GUIDED, time: 4.0833 msec
+	Option RUNTIME, time: 12.9505 msec
+BETTER OPTION 3, BETTER TIME 4.0833 msec, CHUNK_SIZE = 110
+
+	Option STATIC, time: 11.8424 msec
+	Option DYNAMIC, time: 24.3506 msec
+	Option GUIDED, time: 12.9494 msec
+	Option RUNTIME, time: 39.5487 msec
+BETTER OPTION 1, BETTER TIME 11.8424 msec, CHUNK_SIZE = 111
+
+	Option STATIC, time: 11.5193 msec
+	Option DYNAMIC, time: 26.4932 msec
+	Option GUIDED, time: 8.6102 msec
+	Option RUNTIME, time: 9.5001 msec
+BETTER OPTION 3, BETTER TIME 8.6102 msec, CHUNK_SIZE = 112
+
+	Option STATIC, time: 10.2207 msec
+	Option DYNAMIC, time: 10.2820 msec
+	Option GUIDED, time: 21.9203 msec
+	Option RUNTIME, time: 14.8500 msec
+BETTER OPTION 1, BETTER TIME 10.2207 msec, CHUNK_SIZE = 113
+
+	Option STATIC, time: 12.7245 msec
+	Option DYNAMIC, time: 16.7102 msec
+	Option GUIDED, time: 6.0122 msec
+	Option RUNTIME, time: 18.5899 msec
+BETTER OPTION 3, BETTER TIME 6.0122 msec, CHUNK_SIZE = 114
+
+	Option STATIC, time: 31.4805 msec
+	Option DYNAMIC, time: 13.1719 msec
+	Option GUIDED, time: 27.4074 msec
+	Option RUNTIME, time: 16.7514 msec
+BETTER OPTION 2, BETTER TIME 13.1719 msec, CHUNK_SIZE = 115
+
+	Option STATIC, time: 13.3859 msec
+	Option DYNAMIC, time: 3.1965 msec
+	Option GUIDED, time: 7.5359 msec
+	Option RUNTIME, time: 22.6242 msec
+BETTER OPTION 2, BETTER TIME 3.1965 msec, CHUNK_SIZE = 116
+
+	Option STATIC, time: 10.2089 msec
+	Option DYNAMIC, time: 5.9367 msec
+	Option GUIDED, time: 6.5295 msec
+	Option RUNTIME, time: 19.0528 msec
+BETTER OPTION 2, BETTER TIME 5.9367 msec, CHUNK_SIZE = 117
+
+	Option STATIC, time: 21.4145 msec
+	Option DYNAMIC, time: 7.0298 msec
+	Option GUIDED, time: 5.1631 msec
+	Option RUNTIME, time: 13.8025 msec
+BETTER OPTION 3, BETTER TIME 5.1631 msec, CHUNK_SIZE = 118
+
+	Option STATIC, time: 13.6780 msec
+	Option DYNAMIC, time: 9.7166 msec
+	Option GUIDED, time: 19.4419 msec
+	Option RUNTIME, time: 16.1994 msec
+BETTER OPTION 2, BETTER TIME 9.7166 msec, CHUNK_SIZE = 119
+
+	Option STATIC, time: 15.9372 msec
+	Option DYNAMIC, time: 6.0670 msec
+	Option GUIDED, time: 13.4385 msec
+	Option RUNTIME, time: 41.9114 msec
+BETTER OPTION 2, BETTER TIME 6.0670 msec, CHUNK_SIZE = 120
+
+	Option STATIC, time: 10.5991 msec
+	Option DYNAMIC, time: 4.5169 msec
+	Option GUIDED, time: 16.0406 msec
+	Option RUNTIME, time: 18.1131 msec
+BETTER OPTION 2, BETTER TIME 4.5169 msec, CHUNK_SIZE = 121
+
+	Option STATIC, time: 12.0564 msec
+	Option DYNAMIC, time: 10.5832 msec
+	Option GUIDED, time: 7.5999 msec
+	Option RUNTIME, time: 15.5791 msec
+BETTER OPTION 3, BETTER TIME 7.5999 msec, CHUNK_SIZE = 122
+
+	Option STATIC, time: 9.6361 msec
+	Option DYNAMIC, time: 27.9104 msec
+	Option GUIDED, time: 33.3176 msec
+	Option RUNTIME, time: 9.7631 msec
+BETTER OPTION 1, BETTER TIME 9.6361 msec, CHUNK_SIZE = 123
+
+	Option STATIC, time: 4.1835 msec
+	Option DYNAMIC, time: 33.3574 msec
+	Option GUIDED, time: 10.3368 msec
+	Option RUNTIME, time: 22.8879 msec
+BETTER OPTION 1, BETTER TIME 4.1835 msec, CHUNK_SIZE = 124
+
+	Option STATIC, time: 12.2671 msec
+	Option DYNAMIC, time: 16.0917 msec
+	Option GUIDED, time: 11.3210 msec
+	Option RUNTIME, time: 20.7182 msec
+BETTER OPTION 3, BETTER TIME 11.3210 msec, CHUNK_SIZE = 125
+
+	Option STATIC, time: 5.0840 msec
+	Option DYNAMIC, time: 7.2891 msec
+	Option GUIDED, time: 8.7838 msec
+	Option RUNTIME, time: 16.4652 msec
+BETTER OPTION 1, BETTER TIME 5.0840 msec, CHUNK_SIZE = 126
+
+	Option STATIC, time: 11.8535 msec
+	Option DYNAMIC, time: 4.4920 msec
+	Option GUIDED, time: 14.5941 msec
+	Option RUNTIME, time: 25.6107 msec
+BETTER OPTION 2, BETTER TIME 4.4920 msec, CHUNK_SIZE = 127
+
+	Option STATIC, time: 17.7977 msec
+	Option DYNAMIC, time: 7.6513 msec
+	Option GUIDED, time: 29.0140 msec
+	Option RUNTIME, time: 6.3920 msec
+BETTER OPTION 4, BETTER TIME 6.3920 msec, CHUNK_SIZE = 128
+
+	Option STATIC, time: 8.2867 msec
+	Option DYNAMIC, time: 9.1670 msec
+	Option GUIDED, time: 7.5645 msec
+	Option RUNTIME, time: 18.7213 msec
+BETTER OPTION 3, BETTER TIME 7.5645 msec, CHUNK_SIZE = 129
+
+	Option STATIC, time: 5.6621 msec
+	Option DYNAMIC, time: 6.7707 msec
+	Option GUIDED, time: 3.2731 msec
+	Option RUNTIME, time: 21.1581 msec
+BETTER OPTION 3, BETTER TIME 3.2731 msec, CHUNK_SIZE = 130
+
+	Option STATIC, time: 16.0892 msec
+	Option DYNAMIC, time: 9.1553 msec
+	Option GUIDED, time: 11.7853 msec
+	Option RUNTIME, time: 10.4474 msec
+BETTER OPTION 2, BETTER TIME 9.1553 msec, CHUNK_SIZE = 131
+
+	Option STATIC, time: 32.0144 msec
+	Option DYNAMIC, time: 45.2543 msec
+	Option GUIDED, time: 6.3443 msec
+	Option RUNTIME, time: 11.9043 msec
+BETTER OPTION 3, BETTER TIME 6.3443 msec, CHUNK_SIZE = 132
+
+	Option STATIC, time: 38.8218 msec
+	Option DYNAMIC, time: 10.9637 msec
+	Option GUIDED, time: 38.7524 msec
+	Option RUNTIME, time: 13.8947 msec
+BETTER OPTION 2, BETTER TIME 10.9637 msec, CHUNK_SIZE = 133
+
+	Option STATIC, time: 38.3078 msec
+	Option DYNAMIC, time: 15.4919 msec
+	Option GUIDED, time: 16.2408 msec
+	Option RUNTIME, time: 18.6079 msec
+BETTER OPTION 2, BETTER TIME 15.4919 msec, CHUNK_SIZE = 134
+
+	Option STATIC, time: 46.2223 msec
+	Option DYNAMIC, time: 69.0592 msec
+	Option GUIDED, time: 22.8643 msec
+	Option RUNTIME, time: 37.8002 msec
+BETTER OPTION 3, BETTER TIME 22.8643 msec, CHUNK_SIZE = 135
+
+	Option STATIC, time: 15.5324 msec
+	Option DYNAMIC, time: 33.2960 msec
+	Option GUIDED, time: 12.6529 msec
+	Option RUNTIME, time: 23.7532 msec
+BETTER OPTION 3, BETTER TIME 12.6529 msec, CHUNK_SIZE = 136
+
+	Option STATIC, time: 26.5710 msec
+	Option DYNAMIC, time: 7.1524 msec
+	Option GUIDED, time: 15.0472 msec
+	Option RUNTIME, time: 13.4357 msec
+BETTER OPTION 2, BETTER TIME 7.1524 msec, CHUNK_SIZE = 137
+
+	Option STATIC, time: 21.2474 msec
+	Option DYNAMIC, time: 65.8793 msec
+	Option GUIDED, time: 12.5281 msec
+	Option RUNTIME, time: 80.2973 msec
+BETTER OPTION 3, BETTER TIME 12.5281 msec, CHUNK_SIZE = 138
+
+	Option STATIC, time: 25.5292 msec
+	Option DYNAMIC, time: 44.8642 msec
+	Option GUIDED, time: 33.1476 msec
+	Option RUNTIME, time: 20.3806 msec
+BETTER OPTION 4, BETTER TIME 20.3806 msec, CHUNK_SIZE = 139
+
+	Option STATIC, time: 43.0183 msec
+	Option DYNAMIC, time: 6.1530 msec
+	Option GUIDED, time: 2.3612 msec
+	Option RUNTIME, time: 14.1618 msec
+BETTER OPTION 3, BETTER TIME 2.3612 msec, CHUNK_SIZE = 140
+
+	Option STATIC, time: 30.3477 msec
+	Option DYNAMIC, time: 14.8789 msec
+	Option GUIDED, time: 10.9599 msec
+	Option RUNTIME, time: 58.8902 msec
+BETTER OPTION 3, BETTER TIME 10.9599 msec, CHUNK_SIZE = 141
+
+	Option STATIC, time: 20.1462 msec
+	Option DYNAMIC, time: 9.8794 msec
+	Option GUIDED, time: 6.3359 msec
+	Option RUNTIME, time: 16.0822 msec
+BETTER OPTION 3, BETTER TIME 6.3359 msec, CHUNK_SIZE = 142
+
+	Option STATIC, time: 15.0144 msec
+	Option DYNAMIC, time: 10.7054 msec
+	Option GUIDED, time: 3.8118 msec
+	Option RUNTIME, time: 16.2803 msec
+BETTER OPTION 3, BETTER TIME 3.8118 msec, CHUNK_SIZE = 143
+
+	Option STATIC, time: 18.1758 msec
+	Option DYNAMIC, time: 13.2075 msec
+	Option GUIDED, time: 10.6581 msec
+	Option RUNTIME, time: 23.2399 msec
+BETTER OPTION 3, BETTER TIME 10.6581 msec, CHUNK_SIZE = 144
+
+	Option STATIC, time: 10.0312 msec
+	Option DYNAMIC, time: 10.0704 msec
+	Option GUIDED, time: 11.6093 msec
+	Option RUNTIME, time: 18.5900 msec
+BETTER OPTION 1, BETTER TIME 10.0312 msec, CHUNK_SIZE = 145
+
+	Option STATIC, time: 5.2458 msec
+	Option DYNAMIC, time: 4.0115 msec
+	Option GUIDED, time: 15.3349 msec
+	Option RUNTIME, time: 9.8373 msec
+BETTER OPTION 2, BETTER TIME 4.0115 msec, CHUNK_SIZE = 146
+
+	Option STATIC, time: 14.0777 msec
+	Option DYNAMIC, time: 5.3302 msec
+	Option GUIDED, time: 29.6857 msec
+	Option RUNTIME, time: 7.9276 msec
+BETTER OPTION 2, BETTER TIME 5.3302 msec, CHUNK_SIZE = 147
+
+	Option STATIC, time: 10.5200 msec
+	Option DYNAMIC, time: 24.4613 msec
+	Option GUIDED, time: 13.9045 msec
+	Option RUNTIME, time: 11.6495 msec
+BETTER OPTION 1, BETTER TIME 10.5200 msec, CHUNK_SIZE = 148
+
+	Option STATIC, time: 12.6493 msec
+	Option DYNAMIC, time: 16.1209 msec
+	Option GUIDED, time: 5.0333 msec
+	Option RUNTIME, time: 15.3940 msec
+BETTER OPTION 3, BETTER TIME 5.0333 msec, CHUNK_SIZE = 149
+
+	Option STATIC, time: 14.5692 msec
+	Option DYNAMIC, time: 31.3786 msec
+	Option GUIDED, time: 7.4956 msec
+	Option RUNTIME, time: 16.7709 msec
+BETTER OPTION 3, BETTER TIME 7.4956 msec, CHUNK_SIZE = 150
+
+	Option STATIC, time: 10.3575 msec
+	Option DYNAMIC, time: 9.2096 msec
+	Option GUIDED, time: 7.4385 msec
+	Option RUNTIME, time: 14.6581 msec
+BETTER OPTION 3, BETTER TIME 7.4385 msec, CHUNK_SIZE = 151
+
+	Option STATIC, time: 9.6801 msec
+	Option DYNAMIC, time: 2.7894 msec
+	Option GUIDED, time: 12.9505 msec
+	Option RUNTIME, time: 11.2592 msec
+BETTER OPTION 2, BETTER TIME 2.7894 msec, CHUNK_SIZE = 152
+
+	Option STATIC, time: 15.9344 msec
+	Option DYNAMIC, time: 3.8378 msec
+	Option GUIDED, time: 10.4700 msec
+	Option RUNTIME, time: 25.1271 msec
+BETTER OPTION 2, BETTER TIME 3.8378 msec, CHUNK_SIZE = 153
+
+	Option STATIC, time: 46.2336 msec
+	Option DYNAMIC, time: 34.7142 msec
+	Option GUIDED, time: 10.5364 msec
+	Option RUNTIME, time: 67.1743 msec
+BETTER OPTION 3, BETTER TIME 10.5364 msec, CHUNK_SIZE = 154
+
+	Option STATIC, time: 24.2482 msec
+	Option DYNAMIC, time: 33.6027 msec
+	Option GUIDED, time: 30.7010 msec
+	Option RUNTIME, time: 80.9774 msec
+BETTER OPTION 1, BETTER TIME 24.2482 msec, CHUNK_SIZE = 155
+
+	Option STATIC, time: 49.1691 msec
+	Option DYNAMIC, time: 19.8264 msec
+	Option GUIDED, time: 44.6158 msec
+	Option RUNTIME, time: 34.9340 msec
+BETTER OPTION 2, BETTER TIME 19.8264 msec, CHUNK_SIZE = 156
+
+	Option STATIC, time: 48.7017 msec
+	Option DYNAMIC, time: 20.0030 msec
+	Option GUIDED, time: 4.5484 msec
+	Option RUNTIME, time: 26.7744 msec
+BETTER OPTION 3, BETTER TIME 4.5484 msec, CHUNK_SIZE = 157
+
+	Option STATIC, time: 39.9276 msec
+	Option DYNAMIC, time: 9.2800 msec
+	Option GUIDED, time: 11.3980 msec
+	Option RUNTIME, time: 10.0500 msec
+BETTER OPTION 2, BETTER TIME 9.2800 msec, CHUNK_SIZE = 158
+
+	Option STATIC, time: 29.5033 msec
+	Option DYNAMIC, time: 13.3048 msec
+	Option GUIDED, time: 5.2773 msec
+	Option RUNTIME, time: 17.8944 msec
+BETTER OPTION 3, BETTER TIME 5.2773 msec, CHUNK_SIZE = 159
+
+	Option STATIC, time: 17.2126 msec
+	Option DYNAMIC, time: 14.9912 msec
+	Option GUIDED, time: 8.3228 msec
+	Option RUNTIME, time: 3.1834 msec
+BETTER OPTION 4, BETTER TIME 3.1834 msec, CHUNK_SIZE = 160
+
+	Option STATIC, time: 16.5101 msec
+	Option DYNAMIC, time: 5.2687 msec
+	Option GUIDED, time: 12.8528 msec
+	Option RUNTIME, time: 12.0882 msec
+BETTER OPTION 2, BETTER TIME 5.2687 msec, CHUNK_SIZE = 161
+
+	Option STATIC, time: 11.9598 msec
+	Option DYNAMIC, time: 9.7721 msec
+	Option GUIDED, time: 18.1642 msec
+	Option RUNTIME, time: 15.9896 msec
+BETTER OPTION 2, BETTER TIME 9.7721 msec, CHUNK_SIZE = 162
+
+	Option STATIC, time: 19.7260 msec
+	Option DYNAMIC, time: 15.3166 msec
+	Option GUIDED, time: 8.3220 msec
+	Option RUNTIME, time: 16.7431 msec
+BETTER OPTION 3, BETTER TIME 8.3220 msec, CHUNK_SIZE = 163
+
+	Option STATIC, time: 19.1448 msec
+	Option DYNAMIC, time: 5.6599 msec
+	Option GUIDED, time: 3.4096 msec
+	Option RUNTIME, time: 21.6718 msec
+BETTER OPTION 3, BETTER TIME 3.4096 msec, CHUNK_SIZE = 164
+
+	Option STATIC, time: 15.9100 msec
+	Option DYNAMIC, time: 9.1021 msec
+	Option GUIDED, time: 8.3034 msec
+	Option RUNTIME, time: 17.7265 msec
+BETTER OPTION 3, BETTER TIME 8.3034 msec, CHUNK_SIZE = 165
+
+	Option STATIC, time: 18.4041 msec
+	Option DYNAMIC, time: 3.0104 msec
+	Option GUIDED, time: 10.7526 msec
+	Option RUNTIME, time: 41.8044 msec
+BETTER OPTION 2, BETTER TIME 3.0104 msec, CHUNK_SIZE = 166
+
+	Option STATIC, time: 43.7948 msec
+	Option DYNAMIC, time: 5.1697 msec
+	Option GUIDED, time: 14.6517 msec
+	Option RUNTIME, time: 11.6516 msec
+BETTER OPTION 2, BETTER TIME 5.1697 msec, CHUNK_SIZE = 167
+
+	Option STATIC, time: 17.9711 msec
+	Option DYNAMIC, time: 7.7716 msec
+	Option GUIDED, time: 11.0750 msec
+	Option RUNTIME, time: 11.7605 msec
+BETTER OPTION 2, BETTER TIME 7.7716 msec, CHUNK_SIZE = 168
+
+	Option STATIC, time: 16.8289 msec
+	Option DYNAMIC, time: 6.7608 msec
+	Option GUIDED, time: 7.1723 msec
+	Option RUNTIME, time: 9.6189 msec
+BETTER OPTION 2, BETTER TIME 6.7608 msec, CHUNK_SIZE = 169
+
+	Option STATIC, time: 25.7868 msec
+	Option DYNAMIC, time: 6.2843 msec
+	Option GUIDED, time: 15.1915 msec
+	Option RUNTIME, time: 33.6984 msec
+BETTER OPTION 2, BETTER TIME 6.2843 msec, CHUNK_SIZE = 170
+
+	Option STATIC, time: 28.9914 msec
+	Option DYNAMIC, time: 6.8766 msec
+	Option GUIDED, time: 14.1407 msec
+	Option RUNTIME, time: 11.1415 msec
+BETTER OPTION 2, BETTER TIME 6.8766 msec, CHUNK_SIZE = 171
+
+	Option STATIC, time: 4.6212 msec
+	Option DYNAMIC, time: 5.3038 msec
+	Option GUIDED, time: 9.4019 msec
+	Option RUNTIME, time: 7.2729 msec
+BETTER OPTION 1, BETTER TIME 4.6212 msec, CHUNK_SIZE = 172
+
+	Option STATIC, time: 22.9357 msec
+	Option DYNAMIC, time: 2.3751 msec
+	Option GUIDED, time: 35.8123 msec
+	Option RUNTIME, time: 11.7470 msec
+BETTER OPTION 2, BETTER TIME 2.3751 msec, CHUNK_SIZE = 173
+
+	Option STATIC, time: 15.6010 msec
+	Option DYNAMIC, time: 8.0516 msec
+	Option GUIDED, time: 10.4087 msec
+	Option RUNTIME, time: 6.7845 msec
+BETTER OPTION 4, BETTER TIME 6.7845 msec, CHUNK_SIZE = 174
+
+	Option STATIC, time: 31.4525 msec
+	Option DYNAMIC, time: 15.0139 msec
+	Option GUIDED, time: 11.5141 msec
+	Option RUNTIME, time: 15.5391 msec
+BETTER OPTION 3, BETTER TIME 11.5141 msec, CHUNK_SIZE = 175
+
+	Option STATIC, time: 9.4688 msec
+	Option DYNAMIC, time: 7.1320 msec
+	Option GUIDED, time: 8.7235 msec
+	Option RUNTIME, time: 29.9558 msec
+BETTER OPTION 2, BETTER TIME 7.1320 msec, CHUNK_SIZE = 176
+
+	Option STATIC, time: 18.5437 msec
+	Option DYNAMIC, time: 28.1122 msec
+	Option GUIDED, time: 21.9134 msec
+	Option RUNTIME, time: 18.1360 msec
+BETTER OPTION 4, BETTER TIME 18.1360 msec, CHUNK_SIZE = 177
+
+	Option STATIC, time: 12.1547 msec
+	Option DYNAMIC, time: 5.3248 msec
+	Option GUIDED, time: 9.3900 msec
+	Option RUNTIME, time: 21.3759 msec
+BETTER OPTION 2, BETTER TIME 5.3248 msec, CHUNK_SIZE = 178
+
+	Option STATIC, time: 21.6975 msec
+	Option DYNAMIC, time: 4.9694 msec
+	Option GUIDED, time: 23.5118 msec
+	Option RUNTIME, time: 7.6578 msec
+BETTER OPTION 2, BETTER TIME 4.9694 msec, CHUNK_SIZE = 179
+
+	Option STATIC, time: 8.7281 msec
+	Option DYNAMIC, time: 9.8757 msec
+	Option GUIDED, time: 22.9590 msec
+	Option RUNTIME, time: 13.9054 msec
+BETTER OPTION 1, BETTER TIME 8.7281 msec, CHUNK_SIZE = 180
+
+	Option STATIC, time: 9.1815 msec
+	Option DYNAMIC, time: 3.8434 msec
+	Option GUIDED, time: 15.6269 msec
+	Option RUNTIME, time: 21.1040 msec
+BETTER OPTION 2, BETTER TIME 3.8434 msec, CHUNK_SIZE = 181
+
+	Option STATIC, time: 18.5989 msec
+	Option DYNAMIC, time: 2.9656 msec
+	Option GUIDED, time: 12.6669 msec
+	Option RUNTIME, time: 7.3782 msec
+BETTER OPTION 2, BETTER TIME 2.9656 msec, CHUNK_SIZE = 182
+
+	Option STATIC, time: 25.7926 msec
+	Option DYNAMIC, time: 9.9475 msec
+	Option GUIDED, time: 10.1135 msec
+	Option RUNTIME, time: 28.9518 msec
+BETTER OPTION 2, BETTER TIME 9.9475 msec, CHUNK_SIZE = 183
+
+	Option STATIC, time: 36.8311 msec
+	Option DYNAMIC, time: 33.0511 msec
+	Option GUIDED, time: 29.0126 msec
+	Option RUNTIME, time: 10.6695 msec
+BETTER OPTION 4, BETTER TIME 10.6695 msec, CHUNK_SIZE = 184
+
+	Option STATIC, time: 15.7296 msec
+	Option DYNAMIC, time: 3.1919 msec
+	Option GUIDED, time: 2.9849 msec
+	Option RUNTIME, time: 15.3137 msec
+BETTER OPTION 3, BETTER TIME 2.9849 msec, CHUNK_SIZE = 185
+
+	Option STATIC, time: 13.7371 msec
+	Option DYNAMIC, time: 8.6740 msec
+	Option GUIDED, time: 6.5909 msec
+	Option RUNTIME, time: 21.1812 msec
+BETTER OPTION 3, BETTER TIME 6.5909 msec, CHUNK_SIZE = 186
+
+	Option STATIC, time: 12.6135 msec
+	Option DYNAMIC, time: 3.8976 msec
+	Option GUIDED, time: 27.8078 msec
+	Option RUNTIME, time: 23.9417 msec
+BETTER OPTION 2, BETTER TIME 3.8976 msec, CHUNK_SIZE = 187
+
+	Option STATIC, time: 13.4014 msec
+	Option DYNAMIC, time: 10.7042 msec
+	Option GUIDED, time: 7.9887 msec
+	Option RUNTIME, time: 20.4618 msec
+BETTER OPTION 3, BETTER TIME 7.9887 msec, CHUNK_SIZE = 188
+
+	Option STATIC, time: 44.5750 msec
+	Option DYNAMIC, time: 4.2063 msec
+	Option GUIDED, time: 24.1954 msec
+	Option RUNTIME, time: 15.7901 msec
+BETTER OPTION 2, BETTER TIME 4.2063 msec, CHUNK_SIZE = 189
+
+	Option STATIC, time: 18.2419 msec
+	Option DYNAMIC, time: 22.4127 msec
+	Option GUIDED, time: 12.2992 msec
+	Option RUNTIME, time: 15.4816 msec
+BETTER OPTION 3, BETTER TIME 12.2992 msec, CHUNK_SIZE = 190
+
+	Option STATIC, time: 12.7577 msec
+	Option DYNAMIC, time: 3.1629 msec
+	Option GUIDED, time: 4.6216 msec
+	Option RUNTIME, time: 14.1679 msec
+BETTER OPTION 2, BETTER TIME 3.1629 msec, CHUNK_SIZE = 191
+
+	Option STATIC, time: 8.2118 msec
+	Option DYNAMIC, time: 10.9871 msec
+	Option GUIDED, time: 10.8930 msec
+	Option RUNTIME, time: 17.0194 msec
+BETTER OPTION 1, BETTER TIME 8.2118 msec, CHUNK_SIZE = 192
+
+	Option STATIC, time: 9.6364 msec
+	Option DYNAMIC, time: 10.3616 msec
+	Option GUIDED, time: 12.5559 msec
+	Option RUNTIME, time: 3.7784 msec
+BETTER OPTION 4, BETTER TIME 3.7784 msec, CHUNK_SIZE = 193
+
+	Option STATIC, time: 15.2316 msec
+	Option DYNAMIC, time: 16.1270 msec
+	Option GUIDED, time: 7.9723 msec
+	Option RUNTIME, time: 16.9660 msec
+BETTER OPTION 3, BETTER TIME 7.9723 msec, CHUNK_SIZE = 194
+
+	Option STATIC, time: 12.8979 msec
+	Option DYNAMIC, time: 3.5997 msec
+	Option GUIDED, time: 12.3749 msec
+	Option RUNTIME, time: 10.1826 msec
+BETTER OPTION 2, BETTER TIME 3.5997 msec, CHUNK_SIZE = 195
+
+	Option STATIC, time: 11.0939 msec
+	Option DYNAMIC, time: 8.8868 msec
+	Option GUIDED, time: 3.9921 msec
+	Option RUNTIME, time: 9.8048 msec
+BETTER OPTION 3, BETTER TIME 3.9921 msec, CHUNK_SIZE = 196
+
+	Option STATIC, time: 33.2717 msec
+	Option DYNAMIC, time: 6.1246 msec
+	Option GUIDED, time: 16.6102 msec
+	Option RUNTIME, time: 14.8341 msec
+BETTER OPTION 2, BETTER TIME 6.1246 msec, CHUNK_SIZE = 197
+
+	Option STATIC, time: 12.5146 msec
+	Option DYNAMIC, time: 22.0950 msec
+	Option GUIDED, time: 4.2911 msec
+	Option RUNTIME, time: 12.4084 msec
+BETTER OPTION 3, BETTER TIME 4.2911 msec, CHUNK_SIZE = 198
+
+	Option STATIC, time: 17.2463 msec
+	Option DYNAMIC, time: 13.2033 msec
+	Option GUIDED, time: 11.5060 msec
+	Option RUNTIME, time: 12.7684 msec
+BETTER OPTION 3, BETTER TIME 11.5060 msec, CHUNK_SIZE = 199
+
+	Option STATIC, time: 19.8505 msec
+	Option DYNAMIC, time: 4.0723 msec
+	Option GUIDED, time: 13.0518 msec
+	Option RUNTIME, time: 18.2418 msec
+BETTER OPTION 2, BETTER TIME 4.0723 msec, CHUNK_SIZE = 200
+
+	Option STATIC, time: 34.4404 msec
+	Option DYNAMIC, time: 3.9864 msec
+	Option GUIDED, time: 26.5132 msec
+	Option RUNTIME, time: 22.6713 msec
+BETTER OPTION 2, BETTER TIME 3.9864 msec, CHUNK_SIZE = 201
+
+	Option STATIC, time: 28.7013 msec
+	Option DYNAMIC, time: 4.4846 msec
+	Option GUIDED, time: 9.5245 msec
+	Option RUNTIME, time: 6.6175 msec
+BETTER OPTION 2, BETTER TIME 4.4846 msec, CHUNK_SIZE = 202
+
+	Option STATIC, time: 26.1517 msec
+	Option DYNAMIC, time: 7.0120 msec
+	Option GUIDED, time: 15.4691 msec
+	Option RUNTIME, time: 6.0094 msec
+BETTER OPTION 4, BETTER TIME 6.0094 msec, CHUNK_SIZE = 203
+
+	Option STATIC, time: 22.3324 msec
+	Option DYNAMIC, time: 19.3049 msec
+	Option GUIDED, time: 3.2792 msec
+	Option RUNTIME, time: 13.8749 msec
+BETTER OPTION 3, BETTER TIME 3.2792 msec, CHUNK_SIZE = 204
+
+	Option STATIC, time: 54.4935 msec
+	Option DYNAMIC, time: 13.0338 msec
+	Option GUIDED, time: 11.2407 msec
+	Option RUNTIME, time: 34.3997 msec
+BETTER OPTION 3, BETTER TIME 11.2407 msec, CHUNK_SIZE = 205
+
+	Option STATIC, time: 18.4247 msec
+	Option DYNAMIC, time: 5.3721 msec
+	Option GUIDED, time: 10.8755 msec
+	Option RUNTIME, time: 14.6598 msec
+BETTER OPTION 2, BETTER TIME 5.3721 msec, CHUNK_SIZE = 206
+
+	Option STATIC, time: 16.8478 msec
+	Option DYNAMIC, time: 18.8462 msec
+	Option GUIDED, time: 4.1719 msec
+	Option RUNTIME, time: 12.5014 msec
+BETTER OPTION 3, BETTER TIME 4.1719 msec, CHUNK_SIZE = 207
+
+	Option STATIC, time: 19.0805 msec
+	Option DYNAMIC, time: 12.5389 msec
+	Option GUIDED, time: 4.1913 msec
+	Option RUNTIME, time: 3.7528 msec
+BETTER OPTION 4, BETTER TIME 3.7528 msec, CHUNK_SIZE = 208
+
+	Option STATIC, time: 32.0560 msec
+	Option DYNAMIC, time: 12.2219 msec
+	Option GUIDED, time: 6.9297 msec
+	Option RUNTIME, time: 16.4850 msec
+BETTER OPTION 3, BETTER TIME 6.9297 msec, CHUNK_SIZE = 209
+
+	Option STATIC, time: 14.4317 msec
+	Option DYNAMIC, time: 14.5927 msec
+	Option GUIDED, time: 7.8200 msec
+	Option RUNTIME, time: 8.1115 msec
+BETTER OPTION 3, BETTER TIME 7.8200 msec, CHUNK_SIZE = 210
+
+	Option STATIC, time: 10.5010 msec
+	Option DYNAMIC, time: 23.2051 msec
+	Option GUIDED, time: 13.8574 msec
+	Option RUNTIME, time: 15.8923 msec
+BETTER OPTION 1, BETTER TIME 10.5010 msec, CHUNK_SIZE = 211
+
+	Option STATIC, time: 15.6090 msec
+	Option DYNAMIC, time: 17.7593 msec
+	Option GUIDED, time: 31.0303 msec
+	Option RUNTIME, time: 2.7378 msec
+BETTER OPTION 4, BETTER TIME 2.7378 msec, CHUNK_SIZE = 212
+
+	Option STATIC, time: 6.8495 msec
+	Option DYNAMIC, time: 50.3816 msec
+	Option GUIDED, time: 17.1387 msec
+	Option RUNTIME, time: 21.7420 msec
+BETTER OPTION 1, BETTER TIME 6.8495 msec, CHUNK_SIZE = 213
+
+	Option STATIC, time: 3.5325 msec
+	Option DYNAMIC, time: 11.3160 msec
+	Option GUIDED, time: 15.3601 msec
+	Option RUNTIME, time: 32.4432 msec
+BETTER OPTION 1, BETTER TIME 3.5325 msec, CHUNK_SIZE = 214
+
+	Option STATIC, time: 45.9014 msec
+	Option DYNAMIC, time: 11.3829 msec
+	Option GUIDED, time: 11.3923 msec
+	Option RUNTIME, time: 28.6922 msec
+BETTER OPTION 2, BETTER TIME 11.3829 msec, CHUNK_SIZE = 215
+
+	Option STATIC, time: 116.4451 msec
+	Option DYNAMIC, time: 50.2594 msec
+	Option GUIDED, time: 60.4017 msec
+	Option RUNTIME, time: 12.3846 msec
+BETTER OPTION 4, BETTER TIME 12.3846 msec, CHUNK_SIZE = 216
+
+	Option STATIC, time: 15.5524 msec
+	Option DYNAMIC, time: 35.4999 msec
+	Option GUIDED, time: 12.3072 msec
+	Option RUNTIME, time: 14.8740 msec
+BETTER OPTION 3, BETTER TIME 12.3072 msec, CHUNK_SIZE = 217
+
+	Option STATIC, time: 32.2387 msec
+	Option DYNAMIC, time: 25.3022 msec
+	Option GUIDED, time: 41.0880 msec
+	Option RUNTIME, time: 23.1571 msec
+BETTER OPTION 4, BETTER TIME 23.1571 msec, CHUNK_SIZE = 218
+
+	Option STATIC, time: 32.3785 msec
+	Option DYNAMIC, time: 28.5778 msec
+	Option GUIDED, time: 12.0767 msec
+	Option RUNTIME, time: 56.1454 msec
+BETTER OPTION 3, BETTER TIME 12.0767 msec, CHUNK_SIZE = 219
+
+	Option STATIC, time: 50.5879 msec
+	Option DYNAMIC, time: 20.1914 msec
+	Option GUIDED, time: 24.0581 msec
+	Option RUNTIME, time: 70.5832 msec
+BETTER OPTION 2, BETTER TIME 20.1914 msec, CHUNK_SIZE = 220
+
+	Option STATIC, time: 24.6958 msec
+	Option DYNAMIC, time: 25.2054 msec
+	Option GUIDED, time: 37.5637 msec
+	Option RUNTIME, time: 48.2475 msec
+BETTER OPTION 1, BETTER TIME 24.6958 msec, CHUNK_SIZE = 221
+
+	Option STATIC, time: 47.9235 msec
+	Option DYNAMIC, time: 17.6633 msec
+	Option GUIDED, time: 13.9881 msec
+	Option RUNTIME, time: 16.2141 msec
+BETTER OPTION 3, BETTER TIME 13.9881 msec, CHUNK_SIZE = 222
+
+	Option STATIC, time: 31.8734 msec
+	Option DYNAMIC, time: 59.0079 msec
+	Option GUIDED, time: 29.5065 msec
+	Option RUNTIME, time: 31.4181 msec
+BETTER OPTION 3, BETTER TIME 29.5065 msec, CHUNK_SIZE = 223
+
+	Option STATIC, time: 23.4310 msec
+	Option DYNAMIC, time: 17.3599 msec
+	Option GUIDED, time: 22.4795 msec
+	Option RUNTIME, time: 9.7149 msec
+BETTER OPTION 4, BETTER TIME 9.7149 msec, CHUNK_SIZE = 224
+
+	Option STATIC, time: 16.3067 msec
+	Option DYNAMIC, time: 32.0033 msec
+	Option GUIDED, time: 31.6749 msec
+	Option RUNTIME, time: 86.4961 msec
+BETTER OPTION 1, BETTER TIME 16.3067 msec, CHUNK_SIZE = 225
+
+	Option STATIC, time: 44.6585 msec
+	Option DYNAMIC, time: 44.5724 msec
+	Option GUIDED, time: 36.3923 msec
+	Option RUNTIME, time: 58.2949 msec
+BETTER OPTION 3, BETTER TIME 36.3923 msec, CHUNK_SIZE = 226
+
+	Option STATIC, time: 23.1076 msec
+	Option DYNAMIC, time: 65.3232 msec
+	Option GUIDED, time: 3.9629 msec
+	Option RUNTIME, time: 30.3701 msec
+BETTER OPTION 3, BETTER TIME 3.9629 msec, CHUNK_SIZE = 227
+
+	Option STATIC, time: 21.0083 msec
+	Option DYNAMIC, time: 34.3415 msec
+	Option GUIDED, time: 19.8862 msec
+	Option RUNTIME, time: 42.0573 msec
+BETTER OPTION 3, BETTER TIME 19.8862 msec, CHUNK_SIZE = 228
+
+	Option STATIC, time: 41.3302 msec
+	Option DYNAMIC, time: 23.1607 msec
+	Option GUIDED, time: 19.4445 msec
+	Option RUNTIME, time: 8.4322 msec
+BETTER OPTION 4, BETTER TIME 8.4322 msec, CHUNK_SIZE = 229
+
+	Option STATIC, time: 28.7876 msec
+	Option DYNAMIC, time: 34.8024 msec
+	Option GUIDED, time: 27.4322 msec
+	Option RUNTIME, time: 10.9626 msec
+BETTER OPTION 4, BETTER TIME 10.9626 msec, CHUNK_SIZE = 230
+
+	Option STATIC, time: 44.5771 msec
+	Option DYNAMIC, time: 31.9257 msec
+	Option GUIDED, time: 15.8110 msec
+	Option RUNTIME, time: 12.2348 msec
+BETTER OPTION 4, BETTER TIME 12.2348 msec, CHUNK_SIZE = 231
+
+	Option STATIC, time: 40.4039 msec
+	Option DYNAMIC, time: 65.6319 msec
+	Option GUIDED, time: 16.2637 msec
+	Option RUNTIME, time: 30.0628 msec
+BETTER OPTION 3, BETTER TIME 16.2637 msec, CHUNK_SIZE = 232
+
+	Option STATIC, time: 35.8467 msec
+	Option DYNAMIC, time: 28.1640 msec
+	Option GUIDED, time: 34.2862 msec
+	Option RUNTIME, time: 13.9747 msec
+BETTER OPTION 4, BETTER TIME 13.9747 msec, CHUNK_SIZE = 233
+
+	Option STATIC, time: 21.2945 msec
+	Option DYNAMIC, time: 12.9412 msec
+	Option GUIDED, time: 42.3152 msec
+	Option RUNTIME, time: 41.1807 msec
+BETTER OPTION 2, BETTER TIME 12.9412 msec, CHUNK_SIZE = 234
+
+	Option STATIC, time: 23.2725 msec
+	Option DYNAMIC, time: 28.0882 msec
+	Option GUIDED, time: 73.3509 msec
+	Option RUNTIME, time: 78.8025 msec
+BETTER OPTION 1, BETTER TIME 23.2725 msec, CHUNK_SIZE = 235
+
+	Option STATIC, time: 65.6300 msec
+	Option DYNAMIC, time: 46.8191 msec
+	Option GUIDED, time: 7.5028 msec
+	Option RUNTIME, time: 29.5710 msec
+BETTER OPTION 3, BETTER TIME 7.5028 msec, CHUNK_SIZE = 236
+
+	Option STATIC, time: 15.1929 msec
+	Option DYNAMIC, time: 19.7565 msec
+	Option GUIDED, time: 12.9945 msec
+	Option RUNTIME, time: 35.4547 msec
+BETTER OPTION 3, BETTER TIME 12.9945 msec, CHUNK_SIZE = 237
+
+	Option STATIC, time: 41.1009 msec
+	Option DYNAMIC, time: 22.7299 msec
+	Option GUIDED, time: 17.4041 msec
+	Option RUNTIME, time: 31.9843 msec
+BETTER OPTION 3, BETTER TIME 17.4041 msec, CHUNK_SIZE = 238
+
+	Option STATIC, time: 31.9653 msec
+	Option DYNAMIC, time: 25.9023 msec
+	Option GUIDED, time: 15.3281 msec
+	Option RUNTIME, time: 20.7293 msec
+BETTER OPTION 3, BETTER TIME 15.3281 msec, CHUNK_SIZE = 239
+
+	Option STATIC, time: 9.3015 msec
+	Option DYNAMIC, time: 7.5339 msec
+	Option GUIDED, time: 10.5446 msec
+	Option RUNTIME, time: 16.6181 msec
+BETTER OPTION 2, BETTER TIME 7.5339 msec, CHUNK_SIZE = 240
+
+	Option STATIC, time: 9.1935 msec
+	Option DYNAMIC, time: 3.5371 msec
+	Option GUIDED, time: 3.6522 msec
+	Option RUNTIME, time: 11.9927 msec
+BETTER OPTION 2, BETTER TIME 3.5371 msec, CHUNK_SIZE = 241
+
+	Option STATIC, time: 27.0397 msec
+	Option DYNAMIC, time: 11.1323 msec
+	Option GUIDED, time: 4.4417 msec
+	Option RUNTIME, time: 41.5597 msec
+BETTER OPTION 3, BETTER TIME 4.4417 msec, CHUNK_SIZE = 242
+
+	Option STATIC, time: 25.4248 msec
+	Option DYNAMIC, time: 7.9639 msec
+	Option GUIDED, time: 8.5524 msec
+	Option RUNTIME, time: 11.5497 msec
+BETTER OPTION 2, BETTER TIME 7.9639 msec, CHUNK_SIZE = 243
+
+	Option STATIC, time: 5.3229 msec
+	Option DYNAMIC, time: 11.0098 msec
+	Option GUIDED, time: 12.2042 msec
+	Option RUNTIME, time: 9.5929 msec
+BETTER OPTION 1, BETTER TIME 5.3229 msec, CHUNK_SIZE = 244
+
+	Option STATIC, time: 16.7409 msec
+	Option DYNAMIC, time: 7.5727 msec
+	Option GUIDED, time: 8.8287 msec
+	Option RUNTIME, time: 16.8838 msec
+BETTER OPTION 2, BETTER TIME 7.5727 msec, CHUNK_SIZE = 245
+
+	Option STATIC, time: 20.6160 msec
+	Option DYNAMIC, time: 3.4020 msec
+	Option GUIDED, time: 7.3158 msec
+	Option RUNTIME, time: 12.0585 msec
+BETTER OPTION 2, BETTER TIME 3.4020 msec, CHUNK_SIZE = 246
+
+	Option STATIC, time: 11.0700 msec
+	Option DYNAMIC, time: 5.1352 msec
+	Option GUIDED, time: 3.3675 msec
+	Option RUNTIME, time: 11.9577 msec
+BETTER OPTION 3, BETTER TIME 3.3675 msec, CHUNK_SIZE = 247
+
+	Option STATIC, time: 12.7998 msec
+	Option DYNAMIC, time: 25.3655 msec
+	Option GUIDED, time: 7.5831 msec
+	Option RUNTIME, time: 8.3394 msec
+BETTER OPTION 3, BETTER TIME 7.5831 msec, CHUNK_SIZE = 248
+
+	Option STATIC, time: 25.9193 msec
+	Option DYNAMIC, time: 5.4468 msec
+	Option GUIDED, time: 2.9513 msec
+	Option RUNTIME, time: 6.5765 msec
+BETTER OPTION 3, BETTER TIME 2.9513 msec, CHUNK_SIZE = 249
+
+	Option STATIC, time: 10.1713 msec
+	Option DYNAMIC, time: 8.6619 msec
+	Option GUIDED, time: 9.4155 msec
+	Option RUNTIME, time: 14.1979 msec
+BETTER OPTION 2, BETTER TIME 8.6619 msec, CHUNK_SIZE = 250
+
+	Option STATIC, time: 10.7365 msec
+	Option DYNAMIC, time: 35.0721 msec
+	Option GUIDED, time: 6.7403 msec
+	Option RUNTIME, time: 16.7890 msec
+BETTER OPTION 3, BETTER TIME 6.7403 msec, CHUNK_SIZE = 251
+
+	Option STATIC, time: 18.1153 msec
+	Option DYNAMIC, time: 12.3326 msec
+	Option GUIDED, time: 10.6602 msec
+	Option RUNTIME, time: 13.4446 msec
+BETTER OPTION 3, BETTER TIME 10.6602 msec, CHUNK_SIZE = 252
+
+	Option STATIC, time: 4.3891 msec
+	Option DYNAMIC, time: 12.0220 msec
+	Option GUIDED, time: 4.3835 msec
+	Option RUNTIME, time: 4.9186 msec
+BETTER OPTION 3, BETTER TIME 4.3835 msec, CHUNK_SIZE = 253
+
+	Option STATIC, time: 10.3923 msec
+	Option DYNAMIC, time: 24.8160 msec
+	Option GUIDED, time: 2.9678 msec
+	Option RUNTIME, time: 12.8824 msec
+BETTER OPTION 3, BETTER TIME 2.9678 msec, CHUNK_SIZE = 254
+
+	Option STATIC, time: 16.3997 msec
+	Option DYNAMIC, time: 7.0391 msec
+	Option GUIDED, time: 3.0631 msec
+	Option RUNTIME, time: 10.2974 msec
+BETTER OPTION 3, BETTER TIME 3.0631 msec, CHUNK_SIZE = 255
+
+	Option STATIC, time: 4.6878 msec
+	Option DYNAMIC, time: 17.8361 msec
+	Option GUIDED, time: 7.8337 msec
+	Option RUNTIME, time: 15.2368 msec
+BETTER OPTION 1, BETTER TIME 4.6878 msec, CHUNK_SIZE = 256
+
+	Option STATIC, time: 9.4740 msec
+	Option DYNAMIC, time: 7.7820 msec
+	Option GUIDED, time: 13.5295 msec
+	Option RUNTIME, time: 6.1523 msec
+BETTER OPTION 4, BETTER TIME 6.1523 msec, CHUNK_SIZE = 257
+
+	Option STATIC, time: 18.2410 msec
+	Option DYNAMIC, time: 14.7213 msec
+	Option GUIDED, time: 21.9196 msec
+	Option RUNTIME, time: 11.0765 msec
+BETTER OPTION 4, BETTER TIME 11.0765 msec, CHUNK_SIZE = 258
+
+	Option STATIC, time: 11.9530 msec
+	Option DYNAMIC, time: 23.5552 msec
+	Option GUIDED, time: 9.3665 msec
+	Option RUNTIME, time: 17.0102 msec
+BETTER OPTION 3, BETTER TIME 9.3665 msec, CHUNK_SIZE = 259
+
+	Option STATIC, time: 5.1504 msec
+	Option DYNAMIC, time: 2.5894 msec
+	Option GUIDED, time: 3.5354 msec
+	Option RUNTIME, time: 13.7419 msec
+BETTER OPTION 2, BETTER TIME 2.5894 msec, CHUNK_SIZE = 260
+
+	Option STATIC, time: 12.8210 msec
+	Option DYNAMIC, time: 6.0135 msec
+	Option GUIDED, time: 9.3511 msec
+	Option RUNTIME, time: 6.6334 msec
+BETTER OPTION 2, BETTER TIME 6.0135 msec, CHUNK_SIZE = 261
+
+	Option STATIC, time: 11.7340 msec
+	Option DYNAMIC, time: 5.8789 msec
+	Option GUIDED, time: 12.5815 msec
+	Option RUNTIME, time: 19.5916 msec
+BETTER OPTION 2, BETTER TIME 5.8789 msec, CHUNK_SIZE = 262
+
+	Option STATIC, time: 11.7322 msec
+	Option DYNAMIC, time: 3.7113 msec
+	Option GUIDED, time: 9.3679 msec
+	Option RUNTIME, time: 20.4448 msec
+BETTER OPTION 2, BETTER TIME 3.7113 msec, CHUNK_SIZE = 263
+
+	Option STATIC, time: 19.3072 msec
+	Option DYNAMIC, time: 34.1770 msec
+	Option GUIDED, time: 13.3157 msec
+	Option RUNTIME, time: 12.2177 msec
+BETTER OPTION 4, BETTER TIME 12.2177 msec, CHUNK_SIZE = 264
+
+	Option STATIC, time: 3.6977 msec
+	Option DYNAMIC, time: 18.3090 msec
+	Option GUIDED, time: 9.6579 msec
+	Option RUNTIME, time: 26.4355 msec
+BETTER OPTION 1, BETTER TIME 3.6977 msec, CHUNK_SIZE = 265
+
+	Option STATIC, time: 33.8327 msec
+	Option DYNAMIC, time: 26.8304 msec
+	Option GUIDED, time: 16.8116 msec
+	Option RUNTIME, time: 10.5659 msec
+BETTER OPTION 4, BETTER TIME 10.5659 msec, CHUNK_SIZE = 266
+
+	Option STATIC, time: 9.8211 msec
+	Option DYNAMIC, time: 10.4901 msec
+	Option GUIDED, time: 30.2616 msec
+	Option RUNTIME, time: 27.2015 msec
+BETTER OPTION 1, BETTER TIME 9.8211 msec, CHUNK_SIZE = 267
+
+	Option STATIC, time: 18.9179 msec
+	Option DYNAMIC, time: 4.9546 msec
+	Option GUIDED, time: 17.4965 msec
+	Option RUNTIME, time: 10.6044 msec
+BETTER OPTION 2, BETTER TIME 4.9546 msec, CHUNK_SIZE = 268
+
+	Option STATIC, time: 17.1993 msec
+	Option DYNAMIC, time: 6.2134 msec
+	Option GUIDED, time: 27.0068 msec
+	Option RUNTIME, time: 12.8269 msec
+BETTER OPTION 2, BETTER TIME 6.2134 msec, CHUNK_SIZE = 269
+
+	Option STATIC, time: 8.5955 msec
+	Option DYNAMIC, time: 27.8457 msec
+	Option GUIDED, time: 15.2298 msec
+	Option RUNTIME, time: 3.2432 msec
+BETTER OPTION 4, BETTER TIME 3.2432 msec, CHUNK_SIZE = 270
+
+	Option STATIC, time: 12.0959 msec
+	Option DYNAMIC, time: 17.7083 msec
+	Option GUIDED, time: 22.5373 msec
+	Option RUNTIME, time: 4.6834 msec
+BETTER OPTION 4, BETTER TIME 4.6834 msec, CHUNK_SIZE = 271
+
+	Option STATIC, time: 11.8938 msec
+	Option DYNAMIC, time: 3.1613 msec
+	Option GUIDED, time: 12.0472 msec
+	Option RUNTIME, time: 16.3947 msec
+BETTER OPTION 2, BETTER TIME 3.1613 msec, CHUNK_SIZE = 272
+
+	Option STATIC, time: 10.5182 msec
+	Option DYNAMIC, time: 6.2354 msec
+	Option GUIDED, time: 5.3622 msec
+	Option RUNTIME, time: 11.2548 msec
+BETTER OPTION 3, BETTER TIME 5.3622 msec, CHUNK_SIZE = 273
+
+	Option STATIC, time: 12.6000 msec
+	Option DYNAMIC, time: 4.1445 msec
+	Option GUIDED, time: 8.1535 msec
+	Option RUNTIME, time: 28.3647 msec
+BETTER OPTION 2, BETTER TIME 4.1445 msec, CHUNK_SIZE = 274
+
+	Option STATIC, time: 13.1672 msec
+	Option DYNAMIC, time: 16.4630 msec
+	Option GUIDED, time: 3.0131 msec
+	Option RUNTIME, time: 11.0510 msec
+BETTER OPTION 3, BETTER TIME 3.0131 msec, CHUNK_SIZE = 275
+
+	Option STATIC, time: 22.7284 msec
+	Option DYNAMIC, time: 8.6206 msec
+	Option GUIDED, time: 19.5849 msec
+	Option RUNTIME, time: 13.7716 msec
+BETTER OPTION 2, BETTER TIME 8.6206 msec, CHUNK_SIZE = 276
+
+	Option STATIC, time: 3.8314 msec
+	Option DYNAMIC, time: 18.7375 msec
+	Option GUIDED, time: 28.6737 msec
+	Option RUNTIME, time: 18.9985 msec
+BETTER OPTION 1, BETTER TIME 3.8314 msec, CHUNK_SIZE = 277
+
+	Option STATIC, time: 12.0670 msec
+	Option DYNAMIC, time: 9.5740 msec
+	Option GUIDED, time: 13.5019 msec
+	Option RUNTIME, time: 17.8269 msec
+BETTER OPTION 2, BETTER TIME 9.5740 msec, CHUNK_SIZE = 278
+
+	Option STATIC, time: 15.1845 msec
+	Option DYNAMIC, time: 8.7712 msec
+	Option GUIDED, time: 5.6216 msec
+	Option RUNTIME, time: 12.9689 msec
+BETTER OPTION 3, BETTER TIME 5.6216 msec, CHUNK_SIZE = 279
+
+	Option STATIC, time: 5.5071 msec
+	Option DYNAMIC, time: 11.5510 msec
+	Option GUIDED, time: 6.2217 msec
+	Option RUNTIME, time: 10.4549 msec
+BETTER OPTION 1, BETTER TIME 5.5071 msec, CHUNK_SIZE = 280
+
+	Option STATIC, time: 19.8165 msec
+	Option DYNAMIC, time: 18.2335 msec
+	Option GUIDED, time: 27.3883 msec
+	Option RUNTIME, time: 9.3563 msec
+BETTER OPTION 4, BETTER TIME 9.3563 msec, CHUNK_SIZE = 281
+
+	Option STATIC, time: 24.9532 msec
+	Option DYNAMIC, time: 16.7129 msec
+	Option GUIDED, time: 9.0698 msec
+	Option RUNTIME, time: 10.8188 msec
+BETTER OPTION 3, BETTER TIME 9.0698 msec, CHUNK_SIZE = 282
+
+	Option STATIC, time: 14.9898 msec
+	Option DYNAMIC, time: 19.9690 msec
+	Option GUIDED, time: 4.0108 msec
+	Option RUNTIME, time: 15.1401 msec
+BETTER OPTION 3, BETTER TIME 4.0108 msec, CHUNK_SIZE = 283
+
+	Option STATIC, time: 13.9669 msec
+	Option DYNAMIC, time: 12.0942 msec
+	Option GUIDED, time: 33.1699 msec
+	Option RUNTIME, time: 4.8791 msec
+BETTER OPTION 4, BETTER TIME 4.8791 msec, CHUNK_SIZE = 284
+
+	Option STATIC, time: 14.8643 msec
+	Option DYNAMIC, time: 3.9555 msec
+	Option GUIDED, time: 6.2802 msec
+	Option RUNTIME, time: 23.1898 msec
+BETTER OPTION 2, BETTER TIME 3.9555 msec, CHUNK_SIZE = 285
+
+	Option STATIC, time: 3.8815 msec
+	Option DYNAMIC, time: 12.8057 msec
+	Option GUIDED, time: 3.6424 msec
+	Option RUNTIME, time: 12.5413 msec
+BETTER OPTION 3, BETTER TIME 3.6424 msec, CHUNK_SIZE = 286
+
+	Option STATIC, time: 18.3020 msec
+	Option DYNAMIC, time: 9.0327 msec
+	Option GUIDED, time: 4.6842 msec
+	Option RUNTIME, time: 12.6143 msec
+BETTER OPTION 3, BETTER TIME 4.6842 msec, CHUNK_SIZE = 287
+
+	Option STATIC, time: 15.3606 msec
+	Option DYNAMIC, time: 4.3135 msec
+	Option GUIDED, time: 9.9880 msec
+	Option RUNTIME, time: 19.0510 msec
+BETTER OPTION 2, BETTER TIME 4.3135 msec, CHUNK_SIZE = 288
+
+	Option STATIC, time: 16.3396 msec
+	Option DYNAMIC, time: 7.5889 msec
+	Option GUIDED, time: 12.5044 msec
+	Option RUNTIME, time: 12.1411 msec
+BETTER OPTION 2, BETTER TIME 7.5889 msec, CHUNK_SIZE = 289
+
+	Option STATIC, time: 28.3469 msec
+	Option DYNAMIC, time: 8.3966 msec
+	Option GUIDED, time: 19.4601 msec
+	Option RUNTIME, time: 26.2115 msec
+BETTER OPTION 2, BETTER TIME 8.3966 msec, CHUNK_SIZE = 290
+
+	Option STATIC, time: 12.5342 msec
+	Option DYNAMIC, time: 8.2892 msec
+	Option GUIDED, time: 31.5591 msec
+	Option RUNTIME, time: 10.2171 msec
+BETTER OPTION 2, BETTER TIME 8.2892 msec, CHUNK_SIZE = 291
+
+	Option STATIC, time: 9.5113 msec
+	Option DYNAMIC, time: 9.3257 msec
+	Option GUIDED, time: 3.9229 msec
+	Option RUNTIME, time: 10.5744 msec
+BETTER OPTION 3, BETTER TIME 3.9229 msec, CHUNK_SIZE = 292
+
+	Option STATIC, time: 9.5205 msec
+	Option DYNAMIC, time: 11.7790 msec
+	Option GUIDED, time: 16.5454 msec
+	Option RUNTIME, time: 19.2826 msec
+BETTER OPTION 1, BETTER TIME 9.5205 msec, CHUNK_SIZE = 293
+
+	Option STATIC, time: 16.7900 msec
+	Option DYNAMIC, time: 7.6731 msec
+	Option GUIDED, time: 7.4929 msec
+	Option RUNTIME, time: 14.4689 msec
+BETTER OPTION 3, BETTER TIME 7.4929 msec, CHUNK_SIZE = 294
+
+	Option STATIC, time: 32.4734 msec
+	Option DYNAMIC, time: 16.9606 msec
+	Option GUIDED, time: 28.2045 msec
+	Option RUNTIME, time: 7.8305 msec
+BETTER OPTION 4, BETTER TIME 7.8305 msec, CHUNK_SIZE = 295
+
+	Option STATIC, time: 11.1556 msec
+	Option DYNAMIC, time: 5.5736 msec
+	Option GUIDED, time: 3.0782 msec
+	Option RUNTIME, time: 12.7086 msec
+BETTER OPTION 3, BETTER TIME 3.0782 msec, CHUNK_SIZE = 296
+
+	Option STATIC, time: 27.3654 msec
+	Option DYNAMIC, time: 6.7454 msec
+	Option GUIDED, time: 9.1890 msec
+	Option RUNTIME, time: 19.5152 msec
+BETTER OPTION 2, BETTER TIME 6.7454 msec, CHUNK_SIZE = 297
+
+	Option STATIC, time: 11.9833 msec
+	Option DYNAMIC, time: 18.1739 msec
+	Option GUIDED, time: 7.5444 msec
+	Option RUNTIME, time: 10.2778 msec
+BETTER OPTION 3, BETTER TIME 7.5444 msec, CHUNK_SIZE = 298
+
+	Option STATIC, time: 8.2924 msec
+	Option DYNAMIC, time: 17.0565 msec
+	Option GUIDED, time: 39.3758 msec
+	Option RUNTIME, time: 22.0822 msec
+BETTER OPTION 1, BETTER TIME 8.2924 msec, CHUNK_SIZE = 299
+
+	Option STATIC, time: 10.9556 msec
+	Option DYNAMIC, time: 26.5173 msec
+	Option GUIDED, time: 7.6897 msec
+	Option RUNTIME, time: 11.1643 msec
+BETTER OPTION 3, BETTER TIME 7.6897 msec, CHUNK_SIZE = 300
+
+	Option STATIC, time: 33.5695 msec
+	Option DYNAMIC, time: 7.4555 msec
+	Option GUIDED, time: 15.7588 msec
+	Option RUNTIME, time: 40.8383 msec
+BETTER OPTION 2, BETTER TIME 7.4555 msec, CHUNK_SIZE = 301
+
+	Option STATIC, time: 26.4374 msec
+	Option DYNAMIC, time: 41.4349 msec
+	Option GUIDED, time: 25.3077 msec
+	Option RUNTIME, time: 17.5666 msec
+BETTER OPTION 4, BETTER TIME 17.5666 msec, CHUNK_SIZE = 302
+
+	Option STATIC, time: 33.8894 msec
+	Option DYNAMIC, time: 40.9915 msec
+	Option GUIDED, time: 25.4308 msec
+	Option RUNTIME, time: 19.8175 msec
+BETTER OPTION 4, BETTER TIME 19.8175 msec, CHUNK_SIZE = 303
+
+	Option STATIC, time: 11.8577 msec
+	Option DYNAMIC, time: 15.3632 msec
+	Option GUIDED, time: 8.9972 msec
+	Option RUNTIME, time: 14.3123 msec
+BETTER OPTION 3, BETTER TIME 8.9972 msec, CHUNK_SIZE = 304
+
+	Option STATIC, time: 12.3123 msec
+	Option DYNAMIC, time: 17.0427 msec
+	Option GUIDED, time: 5.4003 msec
+	Option RUNTIME, time: 25.1342 msec
+BETTER OPTION 3, BETTER TIME 5.4003 msec, CHUNK_SIZE = 305
+
+	Option STATIC, time: 9.2396 msec
+	Option DYNAMIC, time: 6.7400 msec
+	Option GUIDED, time: 6.0268 msec
+	Option RUNTIME, time: 15.8598 msec
+BETTER OPTION 3, BETTER TIME 6.0268 msec, CHUNK_SIZE = 306
+
+	Option STATIC, time: 18.0478 msec
+	Option DYNAMIC, time: 8.9856 msec
+	Option GUIDED, time: 7.2019 msec
+	Option RUNTIME, time: 32.4964 msec
+BETTER OPTION 3, BETTER TIME 7.2019 msec, CHUNK_SIZE = 307
+
+	Option STATIC, time: 27.1970 msec
+	Option DYNAMIC, time: 9.1169 msec
+	Option GUIDED, time: 10.8351 msec
+	Option RUNTIME, time: 13.5865 msec
+BETTER OPTION 2, BETTER TIME 9.1169 msec, CHUNK_SIZE = 308
+
+	Option STATIC, time: 6.0242 msec
+	Option DYNAMIC, time: 9.3402 msec
+	Option GUIDED, time: 29.0930 msec
+	Option RUNTIME, time: 11.2073 msec
+BETTER OPTION 1, BETTER TIME 6.0242 msec, CHUNK_SIZE = 309
+
+	Option STATIC, time: 26.5833 msec
+	Option DYNAMIC, time: 20.2741 msec
+	Option GUIDED, time: 3.5258 msec
+	Option RUNTIME, time: 19.1346 msec
+BETTER OPTION 3, BETTER TIME 3.5258 msec, CHUNK_SIZE = 310
+
+	Option STATIC, time: 9.9721 msec
+	Option DYNAMIC, time: 26.0599 msec
+	Option GUIDED, time: 7.2268 msec
+	Option RUNTIME, time: 24.7644 msec
+BETTER OPTION 3, BETTER TIME 7.2268 msec, CHUNK_SIZE = 311
+
+	Option STATIC, time: 16.1009 msec
+	Option DYNAMIC, time: 19.0379 msec
+	Option GUIDED, time: 21.4133 msec
+	Option RUNTIME, time: 5.8313 msec
+BETTER OPTION 4, BETTER TIME 5.8313 msec, CHUNK_SIZE = 312
+
+	Option STATIC, time: 26.0349 msec
+	Option DYNAMIC, time: 30.8214 msec
+	Option GUIDED, time: 3.9515 msec
+	Option RUNTIME, time: 16.4064 msec
+BETTER OPTION 3, BETTER TIME 3.9515 msec, CHUNK_SIZE = 313
+
+	Option STATIC, time: 18.2645 msec
+	Option DYNAMIC, time: 13.1919 msec
+	Option GUIDED, time: 6.5684 msec
+	Option RUNTIME, time: 12.6233 msec
+BETTER OPTION 3, BETTER TIME 6.5684 msec, CHUNK_SIZE = 314
+
+	Option STATIC, time: 18.6556 msec
+	Option DYNAMIC, time: 12.7983 msec
+	Option GUIDED, time: 3.0543 msec
+	Option RUNTIME, time: 7.6383 msec
+BETTER OPTION 3, BETTER TIME 3.0543 msec, CHUNK_SIZE = 315
+
+	Option STATIC, time: 6.1628 msec
+	Option DYNAMIC, time: 6.3007 msec
+	Option GUIDED, time: 6.9958 msec
+	Option RUNTIME, time: 7.5262 msec
+BETTER OPTION 1, BETTER TIME 6.1628 msec, CHUNK_SIZE = 316
+
+	Option STATIC, time: 17.5239 msec
+	Option DYNAMIC, time: 18.5540 msec
+	Option GUIDED, time: 6.2615 msec
+	Option RUNTIME, time: 13.8929 msec
+BETTER OPTION 3, BETTER TIME 6.2615 msec, CHUNK_SIZE = 317
+
+	Option STATIC, time: 10.5479 msec
+	Option DYNAMIC, time: 18.6921 msec
+	Option GUIDED, time: 11.2482 msec
+	Option RUNTIME, time: 10.9015 msec
+BETTER OPTION 1, BETTER TIME 10.5479 msec, CHUNK_SIZE = 318
+
+	Option STATIC, time: 16.5750 msec
+	Option DYNAMIC, time: 7.9115 msec
+	Option GUIDED, time: 1.4009 msec
+	Option RUNTIME, time: 7.1340 msec
+BETTER OPTION 3, BETTER TIME 1.4009 msec, CHUNK_SIZE = 319
+
+	Option STATIC, time: 23.3614 msec
+	Option DYNAMIC, time: 7.5936 msec
+	Option GUIDED, time: 10.3047 msec
+	Option RUNTIME, time: 11.3665 msec
+BETTER OPTION 2, BETTER TIME 7.5936 msec, CHUNK_SIZE = 320
+
+	Option STATIC, time: 19.8277 msec
+	Option DYNAMIC, time: 11.5727 msec
+	Option GUIDED, time: 6.2229 msec
+	Option RUNTIME, time: 11.2760 msec
+BETTER OPTION 3, BETTER TIME 6.2229 msec, CHUNK_SIZE = 321
+
+	Option STATIC, time: 34.3810 msec
+	Option DYNAMIC, time: 4.0691 msec
+	Option GUIDED, time: 26.5103 msec
+	Option RUNTIME, time: 12.6445 msec
+BETTER OPTION 2, BETTER TIME 4.0691 msec, CHUNK_SIZE = 322
+
+	Option STATIC, time: 5.2248 msec
+	Option DYNAMIC, time: 12.5088 msec
+	Option GUIDED, time: 5.9123 msec
+	Option RUNTIME, time: 17.5839 msec
+BETTER OPTION 1, BETTER TIME 5.2248 msec, CHUNK_SIZE = 323
+
+	Option STATIC, time: 10.4753 msec
+	Option DYNAMIC, time: 14.0918 msec
+	Option GUIDED, time: 13.1372 msec
+	Option RUNTIME, time: 16.5313 msec
+BETTER OPTION 1, BETTER TIME 10.4753 msec, CHUNK_SIZE = 324
+
+	Option STATIC, time: 6.6321 msec
+	Option DYNAMIC, time: 6.8840 msec
+	Option GUIDED, time: 18.2775 msec
+	Option RUNTIME, time: 2.1133 msec
+BETTER OPTION 4, BETTER TIME 2.1133 msec, CHUNK_SIZE = 325
+
+	Option STATIC, time: 13.6905 msec
+	Option DYNAMIC, time: 10.6792 msec
+	Option GUIDED, time: 9.8031 msec
+	Option RUNTIME, time: 14.0006 msec
+BETTER OPTION 3, BETTER TIME 9.8031 msec, CHUNK_SIZE = 326
+
+	Option STATIC, time: 29.0542 msec
+	Option DYNAMIC, time: 14.2512 msec
+	Option GUIDED, time: 3.4771 msec
+	Option RUNTIME, time: 15.6406 msec
+BETTER OPTION 3, BETTER TIME 3.4771 msec, CHUNK_SIZE = 327
+
+	Option STATIC, time: 18.3843 msec
+	Option DYNAMIC, time: 7.2617 msec
+	Option GUIDED, time: 12.6096 msec
+	Option RUNTIME, time: 63.2419 msec
+BETTER OPTION 2, BETTER TIME 7.2617 msec, CHUNK_SIZE = 328
+
+	Option STATIC, time: 16.3758 msec
+	Option DYNAMIC, time: 31.4071 msec
+	Option GUIDED, time: 6.7802 msec
+	Option RUNTIME, time: 11.2880 msec
+BETTER OPTION 3, BETTER TIME 6.7802 msec, CHUNK_SIZE = 329
+
+	Option STATIC, time: 4.6296 msec
+	Option DYNAMIC, time: 16.2294 msec
+	Option GUIDED, time: 17.7609 msec
+	Option RUNTIME, time: 67.5744 msec
+BETTER OPTION 1, BETTER TIME 4.6296 msec, CHUNK_SIZE = 330
+
+	Option STATIC, time: 14.0318 msec
+	Option DYNAMIC, time: 2.7798 msec
+	Option GUIDED, time: 12.4412 msec
+	Option RUNTIME, time: 15.7039 msec
+BETTER OPTION 2, BETTER TIME 2.7798 msec, CHUNK_SIZE = 331
+
+	Option STATIC, time: 5.6568 msec
+	Option DYNAMIC, time: 9.0770 msec
+	Option GUIDED, time: 6.4037 msec
+	Option RUNTIME, time: 25.0606 msec
+BETTER OPTION 1, BETTER TIME 5.6568 msec, CHUNK_SIZE = 332
+
+	Option STATIC, time: 8.2765 msec
+	Option DYNAMIC, time: 16.4119 msec
+	Option GUIDED, time: 15.6973 msec
+	Option RUNTIME, time: 12.0798 msec
+BETTER OPTION 1, BETTER TIME 8.2765 msec, CHUNK_SIZE = 333
+
+	Option STATIC, time: 10.7300 msec
+	Option DYNAMIC, time: 16.6464 msec
+	Option GUIDED, time: 12.3395 msec
+	Option RUNTIME, time: 23.7910 msec
+BETTER OPTION 1, BETTER TIME 10.7300 msec, CHUNK_SIZE = 334
+
+	Option STATIC, time: 14.0471 msec
+	Option DYNAMIC, time: 7.0369 msec
+	Option GUIDED, time: 21.1220 msec
+	Option RUNTIME, time: 38.9256 msec
+BETTER OPTION 2, BETTER TIME 7.0369 msec, CHUNK_SIZE = 335
+
+	Option STATIC, time: 4.2277 msec
+	Option DYNAMIC, time: 9.7684 msec
+	Option GUIDED, time: 7.6130 msec
+	Option RUNTIME, time: 3.5770 msec
+BETTER OPTION 4, BETTER TIME 3.5770 msec, CHUNK_SIZE = 336
+
+	Option STATIC, time: 15.6231 msec
+	Option DYNAMIC, time: 17.3926 msec
+	Option GUIDED, time: 22.1783 msec
+	Option RUNTIME, time: 19.6559 msec
+BETTER OPTION 1, BETTER TIME 15.6231 msec, CHUNK_SIZE = 337
+
+	Option STATIC, time: 19.0434 msec
+	Option DYNAMIC, time: 4.0477 msec
+	Option GUIDED, time: 6.8398 msec
+	Option RUNTIME, time: 22.9306 msec
+BETTER OPTION 2, BETTER TIME 4.0477 msec, CHUNK_SIZE = 338
+
+	Option STATIC, time: 10.9219 msec
+	Option DYNAMIC, time: 16.1193 msec
+	Option GUIDED, time: 21.2396 msec
+	Option RUNTIME, time: 12.0409 msec
+BETTER OPTION 1, BETTER TIME 10.9219 msec, CHUNK_SIZE = 339
+
+	Option STATIC, time: 19.5189 msec
+	Option DYNAMIC, time: 7.0806 msec
+	Option GUIDED, time: 7.4363 msec
+	Option RUNTIME, time: 7.0149 msec
+BETTER OPTION 4, BETTER TIME 7.0149 msec, CHUNK_SIZE = 340
+
+	Option STATIC, time: 21.3867 msec
+	Option DYNAMIC, time: 45.9605 msec
+	Option GUIDED, time: 29.4595 msec
+	Option RUNTIME, time: 11.8968 msec
+BETTER OPTION 4, BETTER TIME 11.8968 msec, CHUNK_SIZE = 341
+
+	Option STATIC, time: 12.9774 msec
+	Option DYNAMIC, time: 7.6638 msec
+	Option GUIDED, time: 3.5896 msec
+	Option RUNTIME, time: 15.5348 msec
+BETTER OPTION 3, BETTER TIME 3.5896 msec, CHUNK_SIZE = 342
+
+	Option STATIC, time: 9.8860 msec
+	Option DYNAMIC, time: 18.6195 msec
+	Option GUIDED, time: 5.3952 msec
+	Option RUNTIME, time: 19.0920 msec
+BETTER OPTION 3, BETTER TIME 5.3952 msec, CHUNK_SIZE = 343
+
+	Option STATIC, time: 26.3263 msec
+	Option DYNAMIC, time: 13.9358 msec
+	Option GUIDED, time: 16.9233 msec
+	Option RUNTIME, time: 5.6186 msec
+BETTER OPTION 4, BETTER TIME 5.6186 msec, CHUNK_SIZE = 344
+
+	Option STATIC, time: 23.1718 msec
+	Option DYNAMIC, time: 22.2083 msec
+	Option GUIDED, time: 14.0067 msec
+	Option RUNTIME, time: 20.4983 msec
+BETTER OPTION 3, BETTER TIME 14.0067 msec, CHUNK_SIZE = 345
+
+	Option STATIC, time: 28.3376 msec
+	Option DYNAMIC, time: 19.3451 msec
+	Option GUIDED, time: 4.7700 msec
+	Option RUNTIME, time: 33.9309 msec
+BETTER OPTION 3, BETTER TIME 4.7700 msec, CHUNK_SIZE = 346
+
+	Option STATIC, time: 29.8872 msec
+	Option DYNAMIC, time: 20.7844 msec
+	Option GUIDED, time: 8.7026 msec
+	Option RUNTIME, time: 11.0813 msec
+BETTER OPTION 3, BETTER TIME 8.7026 msec, CHUNK_SIZE = 347
+
+	Option STATIC, time: 9.1770 msec
+	Option DYNAMIC, time: 25.5507 msec
+	Option GUIDED, time: 19.2709 msec
+	Option RUNTIME, time: 4.7526 msec
+BETTER OPTION 4, BETTER TIME 4.7526 msec, CHUNK_SIZE = 348
+
+	Option STATIC, time: 26.7212 msec
+	Option DYNAMIC, time: 22.7183 msec
+	Option GUIDED, time: 10.4203 msec
+	Option RUNTIME, time: 15.0734 msec
+BETTER OPTION 3, BETTER TIME 10.4203 msec, CHUNK_SIZE = 349
+
+	Option STATIC, time: 13.0059 msec
+	Option DYNAMIC, time: 7.0854 msec
+	Option GUIDED, time: 29.4872 msec
+	Option RUNTIME, time: 24.1149 msec
+BETTER OPTION 2, BETTER TIME 7.0854 msec, CHUNK_SIZE = 350
+
+	Option STATIC, time: 16.6284 msec
+	Option DYNAMIC, time: 9.4410 msec
+	Option GUIDED, time: 13.5245 msec
+	Option RUNTIME, time: 8.4080 msec
+BETTER OPTION 4, BETTER TIME 8.4080 msec, CHUNK_SIZE = 351
+
+	Option STATIC, time: 8.3576 msec
+	Option DYNAMIC, time: 6.3574 msec
+	Option GUIDED, time: 3.1139 msec
+	Option RUNTIME, time: 14.4248 msec
+BETTER OPTION 3, BETTER TIME 3.1139 msec, CHUNK_SIZE = 352
+
+	Option STATIC, time: 24.0212 msec
+	Option DYNAMIC, time: 28.7480 msec
+	Option GUIDED, time: 9.3737 msec
+	Option RUNTIME, time: 21.7647 msec
+BETTER OPTION 3, BETTER TIME 9.3737 msec, CHUNK_SIZE = 353
+
+	Option STATIC, time: 8.3749 msec
+	Option DYNAMIC, time: 7.8004 msec
+	Option GUIDED, time: 13.4495 msec
+	Option RUNTIME, time: 69.7619 msec
+BETTER OPTION 2, BETTER TIME 7.8004 msec, CHUNK_SIZE = 354
+
+	Option STATIC, time: 85.4614 msec
+	Option DYNAMIC, time: 51.2920 msec
+	Option GUIDED, time: 57.9649 msec
+	Option RUNTIME, time: 36.2846 msec
+BETTER OPTION 4, BETTER TIME 36.2846 msec, CHUNK_SIZE = 355
+
+	Option STATIC, time: 36.7732 msec
+	Option DYNAMIC, time: 14.8764 msec
+	Option GUIDED, time: 18.5901 msec
+	Option RUNTIME, time: 10.5160 msec
+BETTER OPTION 4, BETTER TIME 10.5160 msec, CHUNK_SIZE = 356
+
+	Option STATIC, time: 23.9276 msec
+	Option DYNAMIC, time: 15.1235 msec
+	Option GUIDED, time: 2.9518 msec
+	Option RUNTIME, time: 25.0804 msec
+BETTER OPTION 3, BETTER TIME 2.9518 msec, CHUNK_SIZE = 357
+
+	Option STATIC, time: 20.6607 msec
+	Option DYNAMIC, time: 13.8884 msec
+	Option GUIDED, time: 35.2411 msec
+	Option RUNTIME, time: 18.4657 msec
+BETTER OPTION 2, BETTER TIME 13.8884 msec, CHUNK_SIZE = 358
+
+	Option STATIC, time: 18.1288 msec
+	Option DYNAMIC, time: 8.6002 msec
+	Option GUIDED, time: 14.6020 msec
+	Option RUNTIME, time: 9.8572 msec
+BETTER OPTION 2, BETTER TIME 8.6002 msec, CHUNK_SIZE = 359
+
+	Option STATIC, time: 18.4726 msec
+	Option DYNAMIC, time: 7.3728 msec
+	Option GUIDED, time: 16.2141 msec
+	Option RUNTIME, time: 7.2598 msec
+BETTER OPTION 4, BETTER TIME 7.2598 msec, CHUNK_SIZE = 360
+
+	Option STATIC, time: 20.0589 msec
+	Option DYNAMIC, time: 11.5733 msec
+	Option GUIDED, time: 12.7752 msec
+	Option RUNTIME, time: 21.1051 msec
+BETTER OPTION 2, BETTER TIME 11.5733 msec, CHUNK_SIZE = 361
+
+	Option STATIC, time: 24.1980 msec
+	Option DYNAMIC, time: 10.6200 msec
+	Option GUIDED, time: 31.5611 msec
+	Option RUNTIME, time: 18.7983 msec
+BETTER OPTION 2, BETTER TIME 10.6200 msec, CHUNK_SIZE = 362
+
+	Option STATIC, time: 30.3141 msec
+	Option DYNAMIC, time: 18.1005 msec
+	Option GUIDED, time: 34.7500 msec
+	Option RUNTIME, time: 73.1198 msec
+BETTER OPTION 2, BETTER TIME 18.1005 msec, CHUNK_SIZE = 363
+
+	Option STATIC, time: 56.1444 msec
+	Option DYNAMIC, time: 34.5167 msec
+	Option GUIDED, time: 17.9659 msec
+	Option RUNTIME, time: 26.3869 msec
+BETTER OPTION 3, BETTER TIME 17.9659 msec, CHUNK_SIZE = 364
+
+	Option STATIC, time: 7.3623 msec
+	Option DYNAMIC, time: 56.9930 msec
+	Option GUIDED, time: 34.8371 msec
+	Option RUNTIME, time: 16.6114 msec
+BETTER OPTION 1, BETTER TIME 7.3623 msec, CHUNK_SIZE = 365
+
+	Option STATIC, time: 8.7495 msec
+	Option DYNAMIC, time: 23.9200 msec
+	Option GUIDED, time: 6.4667 msec
+	Option RUNTIME, time: 29.8345 msec
+BETTER OPTION 3, BETTER TIME 6.4667 msec, CHUNK_SIZE = 366
+
+	Option STATIC, time: 58.5963 msec
+	Option DYNAMIC, time: 30.0837 msec
+	Option GUIDED, time: 20.5854 msec
+	Option RUNTIME, time: 9.5474 msec
+BETTER OPTION 4, BETTER TIME 9.5474 msec, CHUNK_SIZE = 367
+
+	Option STATIC, time: 42.6531 msec
+	Option DYNAMIC, time: 33.2896 msec
+	Option GUIDED, time: 11.6198 msec
+	Option RUNTIME, time: 41.8822 msec
+BETTER OPTION 3, BETTER TIME 11.6198 msec, CHUNK_SIZE = 368
+
+	Option STATIC, time: 32.8508 msec
+	Option DYNAMIC, time: 16.2163 msec
+	Option GUIDED, time: 20.4544 msec
+	Option RUNTIME, time: 44.1060 msec
+BETTER OPTION 2, BETTER TIME 16.2163 msec, CHUNK_SIZE = 369
+
+	Option STATIC, time: 6.8298 msec
+	Option DYNAMIC, time: 44.0995 msec
+	Option GUIDED, time: 30.4117 msec
+	Option RUNTIME, time: 10.5181 msec
+BETTER OPTION 1, BETTER TIME 6.8298 msec, CHUNK_SIZE = 370
+
+	Option STATIC, time: 59.4306 msec
+	Option DYNAMIC, time: 17.6697 msec
+	Option GUIDED, time: 31.6206 msec
+	Option RUNTIME, time: 34.2747 msec
+BETTER OPTION 2, BETTER TIME 17.6697 msec, CHUNK_SIZE = 371
+
+	Option STATIC, time: 39.4101 msec
+	Option DYNAMIC, time: 9.4137 msec
+	Option GUIDED, time: 33.8151 msec
+	Option RUNTIME, time: 18.1606 msec
+BETTER OPTION 2, BETTER TIME 9.4137 msec, CHUNK_SIZE = 372
+
+	Option STATIC, time: 5.8727 msec
+	Option DYNAMIC, time: 40.1077 msec
+	Option GUIDED, time: 5.2751 msec
+	Option RUNTIME, time: 50.1209 msec
+BETTER OPTION 3, BETTER TIME 5.2751 msec, CHUNK_SIZE = 373
+
+	Option STATIC, time: 35.3702 msec
+	Option DYNAMIC, time: 28.8631 msec
+	Option GUIDED, time: 24.3800 msec
+	Option RUNTIME, time: 22.7127 msec
+BETTER OPTION 4, BETTER TIME 22.7127 msec, CHUNK_SIZE = 374
+
+	Option STATIC, time: 28.5538 msec
+	Option DYNAMIC, time: 14.8575 msec
+	Option GUIDED, time: 43.3002 msec
+	Option RUNTIME, time: 36.6052 msec
+BETTER OPTION 2, BETTER TIME 14.8575 msec, CHUNK_SIZE = 375
+
+	Option STATIC, time: 33.4221 msec
+	Option DYNAMIC, time: 27.8571 msec
+	Option GUIDED, time: 25.1366 msec
+	Option RUNTIME, time: 33.6385 msec
+BETTER OPTION 3, BETTER TIME 25.1366 msec, CHUNK_SIZE = 376
+
+	Option STATIC, time: 25.6964 msec
+	Option DYNAMIC, time: 67.5860 msec
+	Option GUIDED, time: 30.8964 msec
+	Option RUNTIME, time: 22.6700 msec
+BETTER OPTION 4, BETTER TIME 22.6700 msec, CHUNK_SIZE = 377
+
+	Option STATIC, time: 27.0836 msec
+	Option DYNAMIC, time: 5.1231 msec
+	Option GUIDED, time: 33.7343 msec
+	Option RUNTIME, time: 9.7210 msec
+BETTER OPTION 2, BETTER TIME 5.1231 msec, CHUNK_SIZE = 378
+
+	Option STATIC, time: 39.9427 msec
+	Option DYNAMIC, time: 27.8858 msec
+	Option GUIDED, time: 14.5595 msec
+	Option RUNTIME, time: 41.8775 msec
+BETTER OPTION 3, BETTER TIME 14.5595 msec, CHUNK_SIZE = 379
+
+	Option STATIC, time: 21.4957 msec
+	Option DYNAMIC, time: 16.2480 msec
+	Option GUIDED, time: 40.3369 msec
+	Option RUNTIME, time: 32.1696 msec
+BETTER OPTION 2, BETTER TIME 16.2480 msec, CHUNK_SIZE = 380
+
+	Option STATIC, time: 27.1328 msec
+	Option DYNAMIC, time: 27.1263 msec
+	Option GUIDED, time: 6.2992 msec
+	Option RUNTIME, time: 69.2641 msec
+BETTER OPTION 3, BETTER TIME 6.2992 msec, CHUNK_SIZE = 381
+
+	Option STATIC, time: 26.9143 msec
+	Option DYNAMIC, time: 18.4062 msec
+	Option GUIDED, time: 41.1105 msec
+	Option RUNTIME, time: 8.5190 msec
+BETTER OPTION 4, BETTER TIME 8.5190 msec, CHUNK_SIZE = 382
+
+	Option STATIC, time: 28.4411 msec
+	Option DYNAMIC, time: 21.6552 msec
+	Option GUIDED, time: 6.9614 msec
+	Option RUNTIME, time: 16.9193 msec
+BETTER OPTION 3, BETTER TIME 6.9614 msec, CHUNK_SIZE = 383
+
+	Option STATIC, time: 19.6673 msec
+	Option DYNAMIC, time: 7.2735 msec
+	Option GUIDED, time: 11.1813 msec
+	Option RUNTIME, time: 12.8588 msec
+BETTER OPTION 2, BETTER TIME 7.2735 msec, CHUNK_SIZE = 384
+
+	Option STATIC, time: 20.1701 msec
+	Option DYNAMIC, time: 3.7247 msec
+	Option GUIDED, time: 17.3797 msec
+	Option RUNTIME, time: 55.1283 msec
+BETTER OPTION 2, BETTER TIME 3.7247 msec, CHUNK_SIZE = 385
+
+	Option STATIC, time: 34.6897 msec
+	Option DYNAMIC, time: 5.5337 msec
+	Option GUIDED, time: 6.3146 msec
+	Option RUNTIME, time: 14.4955 msec
+BETTER OPTION 2, BETTER TIME 5.5337 msec, CHUNK_SIZE = 386
+
+	Option STATIC, time: 9.1214 msec
+	Option DYNAMIC, time: 4.4985 msec
+	Option GUIDED, time: 12.2981 msec
+	Option RUNTIME, time: 9.4486 msec
+BETTER OPTION 2, BETTER TIME 4.4985 msec, CHUNK_SIZE = 387
+
+	Option STATIC, time: 12.9052 msec
+	Option DYNAMIC, time: 9.2529 msec
+	Option GUIDED, time: 2.9059 msec
+	Option RUNTIME, time: 23.2182 msec
+BETTER OPTION 3, BETTER TIME 2.9059 msec, CHUNK_SIZE = 388
+
+	Option STATIC, time: 6.5533 msec
+	Option DYNAMIC, time: 3.1421 msec
+	Option GUIDED, time: 35.3875 msec
+	Option RUNTIME, time: 13.0639 msec
+BETTER OPTION 2, BETTER TIME 3.1421 msec, CHUNK_SIZE = 389
+
+	Option STATIC, time: 23.7359 msec
+	Option DYNAMIC, time: 2.7053 msec
+	Option GUIDED, time: 10.6426 msec
+	Option RUNTIME, time: 15.8430 msec
+BETTER OPTION 2, BETTER TIME 2.7053 msec, CHUNK_SIZE = 390
+
+	Option STATIC, time: 22.7150 msec
+	Option DYNAMIC, time: 10.2650 msec
+	Option GUIDED, time: 17.7802 msec
+	Option RUNTIME, time: 15.6019 msec
+BETTER OPTION 2, BETTER TIME 10.2650 msec, CHUNK_SIZE = 391
+
+	Option STATIC, time: 17.2460 msec
+	Option DYNAMIC, time: 13.3192 msec
+	Option GUIDED, time: 5.6213 msec
+	Option RUNTIME, time: 34.2666 msec
+BETTER OPTION 3, BETTER TIME 5.6213 msec, CHUNK_SIZE = 392
+
+	Option STATIC, time: 13.6077 msec
+	Option DYNAMIC, time: 11.8296 msec
+	Option GUIDED, time: 6.8973 msec
+	Option RUNTIME, time: 10.9544 msec
+BETTER OPTION 3, BETTER TIME 6.8973 msec, CHUNK_SIZE = 393
+
+	Option STATIC, time: 1.5991 msec
+	Option DYNAMIC, time: 12.2529 msec
+	Option GUIDED, time: 4.2060 msec
+	Option RUNTIME, time: 11.5259 msec
+BETTER OPTION 1, BETTER TIME 1.5991 msec, CHUNK_SIZE = 394
+
+	Option STATIC, time: 3.8222 msec
+	Option DYNAMIC, time: 12.7577 msec
+	Option GUIDED, time: 4.5334 msec
+	Option RUNTIME, time: 19.3493 msec
+BETTER OPTION 1, BETTER TIME 3.8222 msec, CHUNK_SIZE = 395
+
+	Option STATIC, time: 14.1256 msec
+	Option DYNAMIC, time: 11.7364 msec
+	Option GUIDED, time: 11.8903 msec
+	Option RUNTIME, time: 17.6261 msec
+BETTER OPTION 2, BETTER TIME 11.7364 msec, CHUNK_SIZE = 396
+
+	Option STATIC, time: 28.9191 msec
+	Option DYNAMIC, time: 13.7685 msec
+	Option GUIDED, time: 8.3793 msec
+	Option RUNTIME, time: 3.3125 msec
+BETTER OPTION 4, BETTER TIME 3.3125 msec, CHUNK_SIZE = 397
+
+	Option STATIC, time: 13.3832 msec
+	Option DYNAMIC, time: 9.8238 msec
+	Option GUIDED, time: 11.2604 msec
+	Option RUNTIME, time: 21.1080 msec
+BETTER OPTION 2, BETTER TIME 9.8238 msec, CHUNK_SIZE = 398
+
+	Option STATIC, time: 17.5176 msec
+	Option DYNAMIC, time: 9.9564 msec
+	Option GUIDED, time: 12.8120 msec
+	Option RUNTIME, time: 4.1728 msec
+BETTER OPTION 4, BETTER TIME 4.1728 msec, CHUNK_SIZE = 399
+
+	Option STATIC, time: 17.0459 msec
+	Option DYNAMIC, time: 12.0468 msec
+	Option GUIDED, time: 9.7241 msec
+	Option RUNTIME, time: 20.9312 msec
+BETTER OPTION 3, BETTER TIME 9.7241 msec, CHUNK_SIZE = 400
+
+	Option STATIC, time: 10.5846 msec
+	Option DYNAMIC, time: 13.8491 msec
+	Option GUIDED, time: 14.7783 msec
+	Option RUNTIME, time: 13.1417 msec
+BETTER OPTION 1, BETTER TIME 10.5846 msec, CHUNK_SIZE = 401
+
+	Option STATIC, time: 38.0238 msec
+	Option DYNAMIC, time: 9.4999 msec
+	Option GUIDED, time: 19.5545 msec
+	Option RUNTIME, time: 19.9285 msec
+BETTER OPTION 2, BETTER TIME 9.4999 msec, CHUNK_SIZE = 402
+
+	Option STATIC, time: 12.6045 msec
+	Option DYNAMIC, time: 24.7370 msec
+	Option GUIDED, time: 23.8329 msec
+	Option RUNTIME, time: 4.5365 msec
+BETTER OPTION 4, BETTER TIME 4.5365 msec, CHUNK_SIZE = 403
+
+	Option STATIC, time: 3.7744 msec
+	Option DYNAMIC, time: 26.4539 msec
+	Option GUIDED, time: 14.3673 msec
+	Option RUNTIME, time: 5.0448 msec
+BETTER OPTION 1, BETTER TIME 3.7744 msec, CHUNK_SIZE = 404
+
+	Option STATIC, time: 11.7317 msec
+	Option DYNAMIC, time: 17.7069 msec
+	Option GUIDED, time: 9.7600 msec
+	Option RUNTIME, time: 7.5985 msec
+BETTER OPTION 4, BETTER TIME 7.5985 msec, CHUNK_SIZE = 405
+
+	Option STATIC, time: 15.4459 msec
+	Option DYNAMIC, time: 6.0749 msec
+	Option GUIDED, time: 1.9653 msec
+	Option RUNTIME, time: 11.4189 msec
+BETTER OPTION 3, BETTER TIME 1.9653 msec, CHUNK_SIZE = 406
+
+	Option STATIC, time: 14.1405 msec
+	Option DYNAMIC, time: 3.4975 msec
+	Option GUIDED, time: 4.1831 msec
+	Option RUNTIME, time: 14.4373 msec
+BETTER OPTION 2, BETTER TIME 3.4975 msec, CHUNK_SIZE = 407
+
+	Option STATIC, time: 17.4181 msec
+	Option DYNAMIC, time: 14.4889 msec
+	Option GUIDED, time: 11.3500 msec
+	Option RUNTIME, time: 15.2706 msec
+BETTER OPTION 3, BETTER TIME 11.3500 msec, CHUNK_SIZE = 408
+
+	Option STATIC, time: 21.5385 msec
+	Option DYNAMIC, time: 5.0543 msec
+	Option GUIDED, time: 25.9415 msec
+	Option RUNTIME, time: 5.9618 msec
+BETTER OPTION 2, BETTER TIME 5.0543 msec, CHUNK_SIZE = 409
+
+	Option STATIC, time: 10.4338 msec
+	Option DYNAMIC, time: 8.1941 msec
+	Option GUIDED, time: 11.7715 msec
+	Option RUNTIME, time: 18.9296 msec
+BETTER OPTION 2, BETTER TIME 8.1941 msec, CHUNK_SIZE = 410
+
+	Option STATIC, time: 7.6085 msec
+	Option DYNAMIC, time: 8.6087 msec
+	Option GUIDED, time: 13.3929 msec
+	Option RUNTIME, time: 48.8226 msec
+BETTER OPTION 1, BETTER TIME 7.6085 msec, CHUNK_SIZE = 411
+
+	Option STATIC, time: 31.7533 msec
+	Option DYNAMIC, time: 13.7996 msec
+	Option GUIDED, time: 16.1840 msec
+	Option RUNTIME, time: 24.7368 msec
+BETTER OPTION 2, BETTER TIME 13.7996 msec, CHUNK_SIZE = 412
+
+	Option STATIC, time: 10.9994 msec
+	Option DYNAMIC, time: 17.2775 msec
+	Option GUIDED, time: 22.4626 msec
+	Option RUNTIME, time: 29.2652 msec
+BETTER OPTION 1, BETTER TIME 10.9994 msec, CHUNK_SIZE = 413
+
+	Option STATIC, time: 23.0610 msec
+	Option DYNAMIC, time: 12.4302 msec
+	Option GUIDED, time: 17.2903 msec
+	Option RUNTIME, time: 11.9639 msec
+BETTER OPTION 4, BETTER TIME 11.9639 msec, CHUNK_SIZE = 414
+
+	Option STATIC, time: 7.3833 msec
+	Option DYNAMIC, time: 8.6923 msec
+	Option GUIDED, time: 7.4293 msec
+	Option RUNTIME, time: 11.3745 msec
+BETTER OPTION 1, BETTER TIME 7.3833 msec, CHUNK_SIZE = 415
+
+	Option STATIC, time: 13.6757 msec
+	Option DYNAMIC, time: 14.0978 msec
+	Option GUIDED, time: 6.9501 msec
+	Option RUNTIME, time: 12.5526 msec
+BETTER OPTION 3, BETTER TIME 6.9501 msec, CHUNK_SIZE = 416
+
+	Option STATIC, time: 13.7843 msec
+	Option DYNAMIC, time: 20.1122 msec
+	Option GUIDED, time: 6.1765 msec
+	Option RUNTIME, time: 15.4475 msec
+BETTER OPTION 3, BETTER TIME 6.1765 msec, CHUNK_SIZE = 417
+
+	Option STATIC, time: 11.3699 msec
+	Option DYNAMIC, time: 15.0404 msec
+	Option GUIDED, time: 7.0517 msec
+	Option RUNTIME, time: 9.8513 msec
+BETTER OPTION 3, BETTER TIME 7.0517 msec, CHUNK_SIZE = 418
+
+	Option STATIC, time: 17.5822 msec
+	Option DYNAMIC, time: 12.1370 msec
+	Option GUIDED, time: 2.2763 msec
+	Option RUNTIME, time: 14.2534 msec
+BETTER OPTION 3, BETTER TIME 2.2763 msec, CHUNK_SIZE = 419
+
+	Option STATIC, time: 21.4613 msec
+	Option DYNAMIC, time: 10.4643 msec
+	Option GUIDED, time: 20.3586 msec
+	Option RUNTIME, time: 3.4755 msec
+BETTER OPTION 4, BETTER TIME 3.4755 msec, CHUNK_SIZE = 420
+
+	Option STATIC, time: 13.4536 msec
+	Option DYNAMIC, time: 6.1859 msec
+	Option GUIDED, time: 43.1159 msec
+	Option RUNTIME, time: 15.4257 msec
+BETTER OPTION 2, BETTER TIME 6.1859 msec, CHUNK_SIZE = 421
+
+	Option STATIC, time: 33.2521 msec
+	Option DYNAMIC, time: 43.2162 msec
+	Option GUIDED, time: 21.7483 msec
+	Option RUNTIME, time: 4.7513 msec
+BETTER OPTION 4, BETTER TIME 4.7513 msec, CHUNK_SIZE = 422
+
+	Option STATIC, time: 38.2888 msec
+	Option DYNAMIC, time: 31.9109 msec
+	Option GUIDED, time: 41.2196 msec
+	Option RUNTIME, time: 34.8732 msec
+BETTER OPTION 2, BETTER TIME 31.9109 msec, CHUNK_SIZE = 423
+
+	Option STATIC, time: 19.1071 msec
+	Option DYNAMIC, time: 13.2467 msec
+	Option GUIDED, time: 5.7426 msec
+	Option RUNTIME, time: 37.8010 msec
+BETTER OPTION 3, BETTER TIME 5.7426 msec, CHUNK_SIZE = 424
+
+	Option STATIC, time: 28.0867 msec
+	Option DYNAMIC, time: 29.3385 msec
+	Option GUIDED, time: 40.5420 msec
+	Option RUNTIME, time: 48.3021 msec
+BETTER OPTION 1, BETTER TIME 28.0867 msec, CHUNK_SIZE = 425
+
+	Option STATIC, time: 31.8110 msec
+	Option DYNAMIC, time: 31.4707 msec
+	Option GUIDED, time: 45.9917 msec
+	Option RUNTIME, time: 24.9573 msec
+BETTER OPTION 4, BETTER TIME 24.9573 msec, CHUNK_SIZE = 426
+
+	Option STATIC, time: 43.5374 msec
+	Option DYNAMIC, time: 32.3178 msec
+	Option GUIDED, time: 11.2002 msec
+	Option RUNTIME, time: 41.1743 msec
+BETTER OPTION 3, BETTER TIME 11.2002 msec, CHUNK_SIZE = 427
+
+	Option STATIC, time: 32.5121 msec
+	Option DYNAMIC, time: 7.3381 msec
+	Option GUIDED, time: 39.8365 msec
+	Option RUNTIME, time: 19.2359 msec
+BETTER OPTION 2, BETTER TIME 7.3381 msec, CHUNK_SIZE = 428
+
+	Option STATIC, time: 30.0758 msec
+	Option DYNAMIC, time: 18.4495 msec
+	Option GUIDED, time: 23.6556 msec
+	Option RUNTIME, time: 67.7134 msec
+BETTER OPTION 2, BETTER TIME 18.4495 msec, CHUNK_SIZE = 429
+
+	Option STATIC, time: 36.0666 msec
+	Option DYNAMIC, time: 37.0531 msec
+	Option GUIDED, time: 28.0845 msec
+	Option RUNTIME, time: 35.1608 msec
+BETTER OPTION 3, BETTER TIME 28.0845 msec, CHUNK_SIZE = 430
+
+	Option STATIC, time: 53.5936 msec
+	Option DYNAMIC, time: 57.5755 msec
+	Option GUIDED, time: 29.1157 msec
+	Option RUNTIME, time: 24.7191 msec
+BETTER OPTION 4, BETTER TIME 24.7191 msec, CHUNK_SIZE = 431
+
+	Option STATIC, time: 41.2905 msec
+	Option DYNAMIC, time: 22.0145 msec
+	Option GUIDED, time: 45.5962 msec
+	Option RUNTIME, time: 57.8763 msec
+BETTER OPTION 2, BETTER TIME 22.0145 msec, CHUNK_SIZE = 432
+
+	Option STATIC, time: 54.1685 msec
+	Option DYNAMIC, time: 60.6510 msec
+	Option GUIDED, time: 34.2679 msec
+	Option RUNTIME, time: 45.2053 msec
+BETTER OPTION 3, BETTER TIME 34.2679 msec, CHUNK_SIZE = 433
+
+	Option STATIC, time: 16.6474 msec
+	Option DYNAMIC, time: 12.8785 msec
+	Option GUIDED, time: 40.4148 msec
+	Option RUNTIME, time: 12.0974 msec
+BETTER OPTION 4, BETTER TIME 12.0974 msec, CHUNK_SIZE = 434
+
+	Option STATIC, time: 31.3902 msec
+	Option DYNAMIC, time: 4.0518 msec
+	Option GUIDED, time: 12.8264 msec
+	Option RUNTIME, time: 13.4583 msec
+BETTER OPTION 2, BETTER TIME 4.0518 msec, CHUNK_SIZE = 435
+
+	Option STATIC, time: 8.4559 msec
+	Option DYNAMIC, time: 8.2381 msec
+	Option GUIDED, time: 5.3223 msec
+	Option RUNTIME, time: 11.7434 msec
+BETTER OPTION 3, BETTER TIME 5.3223 msec, CHUNK_SIZE = 436
+
+	Option STATIC, time: 6.5181 msec
+	Option DYNAMIC, time: 1.8048 msec
+	Option GUIDED, time: 9.2338 msec
+	Option RUNTIME, time: 15.1451 msec
+BETTER OPTION 2, BETTER TIME 1.8048 msec, CHUNK_SIZE = 437
+
+	Option STATIC, time: 9.1967 msec
+	Option DYNAMIC, time: 3.6863 msec
+	Option GUIDED, time: 14.6954 msec
+	Option RUNTIME, time: 16.5800 msec
+BETTER OPTION 2, BETTER TIME 3.6863 msec, CHUNK_SIZE = 438
+
+	Option STATIC, time: 7.7171 msec
+	Option DYNAMIC, time: 13.7898 msec
+	Option GUIDED, time: 10.4751 msec
+	Option RUNTIME, time: 39.7657 msec
+BETTER OPTION 1, BETTER TIME 7.7171 msec, CHUNK_SIZE = 439
+
+	Option STATIC, time: 54.4345 msec
+	Option DYNAMIC, time: 26.5409 msec
+	Option GUIDED, time: 21.0010 msec
+	Option RUNTIME, time: 7.5544 msec
+BETTER OPTION 4, BETTER TIME 7.5544 msec, CHUNK_SIZE = 440
+
+	Option STATIC, time: 15.6231 msec
+	Option DYNAMIC, time: 4.4172 msec
+	Option GUIDED, time: 12.4867 msec
+	Option RUNTIME, time: 22.2816 msec
+BETTER OPTION 2, BETTER TIME 4.4172 msec, CHUNK_SIZE = 441
+
+	Option STATIC, time: 4.8013 msec
+	Option DYNAMIC, time: 9.8835 msec
+	Option GUIDED, time: 30.7797 msec
+	Option RUNTIME, time: 14.7171 msec
+BETTER OPTION 1, BETTER TIME 4.8013 msec, CHUNK_SIZE = 442
+
+	Option STATIC, time: 10.7062 msec
+	Option DYNAMIC, time: 11.7479 msec
+	Option GUIDED, time: 4.4319 msec
+	Option RUNTIME, time: 7.9703 msec
+BETTER OPTION 3, BETTER TIME 4.4319 msec, CHUNK_SIZE = 443
+
+	Option STATIC, time: 4.7012 msec
+	Option DYNAMIC, time: 4.1675 msec
+	Option GUIDED, time: 55.4041 msec
+	Option RUNTIME, time: 11.0269 msec
+BETTER OPTION 2, BETTER TIME 4.1675 msec, CHUNK_SIZE = 444
+
+	Option STATIC, time: 63.8979 msec
+	Option DYNAMIC, time: 19.7888 msec
+	Option GUIDED, time: 30.7977 msec
+	Option RUNTIME, time: 25.2177 msec
+BETTER OPTION 2, BETTER TIME 19.7888 msec, CHUNK_SIZE = 445
+
+	Option STATIC, time: 4.7030 msec
+	Option DYNAMIC, time: 11.2096 msec
+	Option GUIDED, time: 9.2878 msec
+	Option RUNTIME, time: 24.2409 msec
+BETTER OPTION 1, BETTER TIME 4.7030 msec, CHUNK_SIZE = 446
+
+	Option STATIC, time: 16.7077 msec
+	Option DYNAMIC, time: 10.4264 msec
+	Option GUIDED, time: 10.4187 msec
+	Option RUNTIME, time: 19.9655 msec
+BETTER OPTION 3, BETTER TIME 10.4187 msec, CHUNK_SIZE = 447
+
+	Option STATIC, time: 9.7807 msec
+	Option DYNAMIC, time: 85.5502 msec
+	Option GUIDED, time: 36.1476 msec
+	Option RUNTIME, time: 32.1043 msec
+BETTER OPTION 1, BETTER TIME 9.7807 msec, CHUNK_SIZE = 448
+
+	Option STATIC, time: 21.7232 msec
+	Option DYNAMIC, time: 59.5754 msec
+	Option GUIDED, time: 35.7357 msec
+	Option RUNTIME, time: 48.5986 msec
+BETTER OPTION 1, BETTER TIME 21.7232 msec, CHUNK_SIZE = 449
+
+	Option STATIC, time: 31.6908 msec
+	Option DYNAMIC, time: 16.5146 msec
+	Option GUIDED, time: 23.7308 msec
+	Option RUNTIME, time: 22.1864 msec
+BETTER OPTION 2, BETTER TIME 16.5146 msec, CHUNK_SIZE = 450
+
+	Option STATIC, time: 10.5361 msec
+	Option DYNAMIC, time: 7.0741 msec
+	Option GUIDED, time: 9.4070 msec
+	Option RUNTIME, time: 11.9812 msec
+BETTER OPTION 2, BETTER TIME 7.0741 msec, CHUNK_SIZE = 451
+
+	Option STATIC, time: 22.4681 msec
+	Option DYNAMIC, time: 8.2697 msec
+	Option GUIDED, time: 4.0329 msec
+	Option RUNTIME, time: 29.2217 msec
+BETTER OPTION 3, BETTER TIME 4.0329 msec, CHUNK_SIZE = 452
+
+	Option STATIC, time: 8.1767 msec
+	Option DYNAMIC, time: 29.0954 msec
+	Option GUIDED, time: 35.3568 msec
+	Option RUNTIME, time: 36.0133 msec
+BETTER OPTION 1, BETTER TIME 8.1767 msec, CHUNK_SIZE = 453
+
+	Option STATIC, time: 11.6319 msec
+	Option DYNAMIC, time: 8.5762 msec
+	Option GUIDED, time: 27.3020 msec
+	Option RUNTIME, time: 12.8300 msec
+BETTER OPTION 2, BETTER TIME 8.5762 msec, CHUNK_SIZE = 454
+
+	Option STATIC, time: 16.1552 msec
+	Option DYNAMIC, time: 17.4734 msec
+	Option GUIDED, time: 5.7073 msec
+	Option RUNTIME, time: 12.4694 msec
+BETTER OPTION 3, BETTER TIME 5.7073 msec, CHUNK_SIZE = 455
+
+	Option STATIC, time: 15.4582 msec
+	Option DYNAMIC, time: 14.3335 msec
+	Option GUIDED, time: 3.9056 msec
+	Option RUNTIME, time: 12.9632 msec
+BETTER OPTION 3, BETTER TIME 3.9056 msec, CHUNK_SIZE = 456
+
+	Option STATIC, time: 17.9866 msec
+	Option DYNAMIC, time: 10.6158 msec
+	Option GUIDED, time: 5.2680 msec
+	Option RUNTIME, time: 32.9759 msec
+BETTER OPTION 3, BETTER TIME 5.2680 msec, CHUNK_SIZE = 457
+
+	Option STATIC, time: 13.3615 msec
+	Option DYNAMIC, time: 4.8211 msec
+	Option GUIDED, time: 13.5354 msec
+	Option RUNTIME, time: 28.1444 msec
+BETTER OPTION 2, BETTER TIME 4.8211 msec, CHUNK_SIZE = 458
+
+	Option STATIC, time: 13.3335 msec
+	Option DYNAMIC, time: 92.7804 msec
+	Option GUIDED, time: 127.3064 msec
+	Option RUNTIME, time: 118.2227 msec
+BETTER OPTION 1, BETTER TIME 13.3335 msec, CHUNK_SIZE = 459
+
+	Option STATIC, time: 66.0716 msec
+	Option DYNAMIC, time: 21.6948 msec
+	Option GUIDED, time: 49.9800 msec
+	Option RUNTIME, time: 75.2177 msec
+BETTER OPTION 2, BETTER TIME 21.6948 msec, CHUNK_SIZE = 460
+
+	Option STATIC, time: 59.5603 msec
+	Option DYNAMIC, time: 15.3052 msec
+	Option GUIDED, time: 27.1744 msec
+	Option RUNTIME, time: 22.4935 msec
+BETTER OPTION 2, BETTER TIME 15.3052 msec, CHUNK_SIZE = 461
+
+	Option STATIC, time: 49.8691 msec
+	Option DYNAMIC, time: 40.9030 msec
+	Option GUIDED, time: 37.5295 msec
+	Option RUNTIME, time: 35.2806 msec
+BETTER OPTION 4, BETTER TIME 35.2806 msec, CHUNK_SIZE = 462
+
+	Option STATIC, time: 33.4193 msec
+	Option DYNAMIC, time: 59.8693 msec
+	Option GUIDED, time: 24.0976 msec
+	Option RUNTIME, time: 33.6053 msec
+BETTER OPTION 3, BETTER TIME 24.0976 msec, CHUNK_SIZE = 463
+
+	Option STATIC, time: 56.7195 msec
+	Option DYNAMIC, time: 33.2020 msec
+	Option GUIDED, time: 21.1614 msec
+	Option RUNTIME, time: 45.7296 msec
+BETTER OPTION 3, BETTER TIME 21.1614 msec, CHUNK_SIZE = 464
+
+	Option STATIC, time: 48.9012 msec
+	Option DYNAMIC, time: 15.3367 msec
+	Option GUIDED, time: 11.4229 msec
+	Option RUNTIME, time: 15.4100 msec
+BETTER OPTION 3, BETTER TIME 11.4229 msec, CHUNK_SIZE = 465
+
+	Option STATIC, time: 28.4626 msec
+	Option DYNAMIC, time: 35.6037 msec
+	Option GUIDED, time: 52.2455 msec
+	Option RUNTIME, time: 17.6942 msec
+BETTER OPTION 4, BETTER TIME 17.6942 msec, CHUNK_SIZE = 466
+
+	Option STATIC, time: 46.0538 msec
+	Option DYNAMIC, time: 38.1393 msec
+	Option GUIDED, time: 4.7012 msec
+	Option RUNTIME, time: 26.8388 msec
+BETTER OPTION 3, BETTER TIME 4.7012 msec, CHUNK_SIZE = 467
+
+	Option STATIC, time: 11.8548 msec
+	Option DYNAMIC, time: 19.7272 msec
+	Option GUIDED, time: 35.4451 msec
+	Option RUNTIME, time: 19.9297 msec
+BETTER OPTION 1, BETTER TIME 11.8548 msec, CHUNK_SIZE = 468
+
+	Option STATIC, time: 31.6073 msec
+	Option DYNAMIC, time: 46.8279 msec
+	Option GUIDED, time: 32.0170 msec
+	Option RUNTIME, time: 49.1378 msec
+BETTER OPTION 1, BETTER TIME 31.6073 msec, CHUNK_SIZE = 469
+
+	Option STATIC, time: 13.6998 msec
+	Option DYNAMIC, time: 18.8530 msec
+	Option GUIDED, time: 19.7968 msec
+	Option RUNTIME, time: 56.4757 msec
+BETTER OPTION 1, BETTER TIME 13.6998 msec, CHUNK_SIZE = 470
+
+	Option STATIC, time: 71.6250 msec
+	Option DYNAMIC, time: 31.4114 msec
+	Option GUIDED, time: 34.7625 msec
+	Option RUNTIME, time: 27.7960 msec
+BETTER OPTION 4, BETTER TIME 27.7960 msec, CHUNK_SIZE = 471
+
+	Option STATIC, time: 32.2551 msec
+	Option DYNAMIC, time: 35.0278 msec
+	Option GUIDED, time: 28.4720 msec
+	Option RUNTIME, time: 107.2379 msec
+BETTER OPTION 3, BETTER TIME 28.4720 msec, CHUNK_SIZE = 472
+
+	Option STATIC, time: 67.6205 msec
+	Option DYNAMIC, time: 47.5385 msec
+	Option GUIDED, time: 139.7155 msec
+	Option RUNTIME, time: 95.3220 msec
+BETTER OPTION 2, BETTER TIME 47.5385 msec, CHUNK_SIZE = 473
+
+	Option STATIC, time: 70.0364 msec
+	Option DYNAMIC, time: 126.9527 msec
+	Option GUIDED, time: 62.5084 msec
+	Option RUNTIME, time: 123.9222 msec
+BETTER OPTION 3, BETTER TIME 62.5084 msec, CHUNK_SIZE = 474
+
+	Option STATIC, time: 62.8631 msec
+	Option DYNAMIC, time: 27.7814 msec
+	Option GUIDED, time: 43.1978 msec
+	Option RUNTIME, time: 38.4066 msec
+BETTER OPTION 2, BETTER TIME 27.7814 msec, CHUNK_SIZE = 475
+
+	Option STATIC, time: 48.8038 msec
+	Option DYNAMIC, time: 49.4499 msec
+	Option GUIDED, time: 43.4030 msec
+	Option RUNTIME, time: 86.1717 msec
+BETTER OPTION 3, BETTER TIME 43.4030 msec, CHUNK_SIZE = 476
+
+	Option STATIC, time: 57.4080 msec
+	Option DYNAMIC, time: 42.7887 msec
+	Option GUIDED, time: 34.6352 msec
+	Option RUNTIME, time: 30.7037 msec
+BETTER OPTION 4, BETTER TIME 30.7037 msec, CHUNK_SIZE = 477
+
+	Option STATIC, time: 46.7968 msec
+	Option DYNAMIC, time: 34.3186 msec
+	Option GUIDED, time: 42.0081 msec
+	Option RUNTIME, time: 46.4980 msec
+BETTER OPTION 2, BETTER TIME 34.3186 msec, CHUNK_SIZE = 478
+
+	Option STATIC, time: 23.5269 msec
+	Option DYNAMIC, time: 46.1719 msec
+	Option GUIDED, time: 33.3795 msec
+	Option RUNTIME, time: 27.9186 msec
+BETTER OPTION 1, BETTER TIME 23.5269 msec, CHUNK_SIZE = 479
+
+	Option STATIC, time: 42.8198 msec
+	Option DYNAMIC, time: 21.8935 msec
+	Option GUIDED, time: 34.3640 msec
+	Option RUNTIME, time: 59.3543 msec
+BETTER OPTION 2, BETTER TIME 21.8935 msec, CHUNK_SIZE = 480
+
+	Option STATIC, time: 59.0433 msec
+	Option DYNAMIC, time: 34.0749 msec
+	Option GUIDED, time: 23.6264 msec
+	Option RUNTIME, time: 61.4159 msec
+BETTER OPTION 3, BETTER TIME 23.6264 msec, CHUNK_SIZE = 481
+
+	Option STATIC, time: 102.5037 msec
+	Option DYNAMIC, time: 95.8953 msec
+	Option GUIDED, time: 111.4098 msec
+	Option RUNTIME, time: 188.3603 msec
+BETTER OPTION 2, BETTER TIME 95.8953 msec, CHUNK_SIZE = 482
+
+	Option STATIC, time: 63.1146 msec
+	Option DYNAMIC, time: 38.5867 msec
+	Option GUIDED, time: 33.0456 msec
+	Option RUNTIME, time: 64.7243 msec
+BETTER OPTION 3, BETTER TIME 33.0456 msec, CHUNK_SIZE = 483
+
+	Option STATIC, time: 35.9749 msec
+	Option DYNAMIC, time: 31.8588 msec
+	Option GUIDED, time: 47.7727 msec
+	Option RUNTIME, time: 53.3636 msec
+BETTER OPTION 2, BETTER TIME 31.8588 msec, CHUNK_SIZE = 484
+
+	Option STATIC, time: 45.7781 msec
+	Option DYNAMIC, time: 53.9865 msec
+	Option GUIDED, time: 27.1526 msec
+	Option RUNTIME, time: 49.4579 msec
+BETTER OPTION 3, BETTER TIME 27.1526 msec, CHUNK_SIZE = 485
+
+	Option STATIC, time: 49.4891 msec
+	Option DYNAMIC, time: 13.6885 msec
+	Option GUIDED, time: 23.3449 msec
+	Option RUNTIME, time: 15.1640 msec
+BETTER OPTION 2, BETTER TIME 13.6885 msec, CHUNK_SIZE = 486
+
+	Option STATIC, time: 20.9741 msec
+	Option DYNAMIC, time: 33.5764 msec
+	Option GUIDED, time: 111.3788 msec
+	Option RUNTIME, time: 89.6251 msec
+BETTER OPTION 1, BETTER TIME 20.9741 msec, CHUNK_SIZE = 487
+
+	Option STATIC, time: 32.7659 msec
+	Option DYNAMIC, time: 60.4151 msec
+	Option GUIDED, time: 43.5381 msec
+	Option RUNTIME, time: 23.9813 msec
+BETTER OPTION 4, BETTER TIME 23.9813 msec, CHUNK_SIZE = 488
+
+	Option STATIC, time: 73.3364 msec
+	Option DYNAMIC, time: 48.7546 msec
+	Option GUIDED, time: 38.0478 msec
+	Option RUNTIME, time: 41.5148 msec
+BETTER OPTION 3, BETTER TIME 38.0478 msec, CHUNK_SIZE = 489
+
+	Option STATIC, time: 21.3230 msec
+	Option DYNAMIC, time: 67.4488 msec
+	Option GUIDED, time: 50.8680 msec
+	Option RUNTIME, time: 27.4007 msec
+BETTER OPTION 1, BETTER TIME 21.3230 msec, CHUNK_SIZE = 490
+
+	Option STATIC, time: 39.0001 msec
+	Option DYNAMIC, time: 26.1968 msec
+	Option GUIDED, time: 54.7872 msec
+	Option RUNTIME, time: 63.4348 msec
+BETTER OPTION 2, BETTER TIME 26.1968 msec, CHUNK_SIZE = 491
+
+	Option STATIC, time: 84.8786 msec
+	Option DYNAMIC, time: 31.7205 msec
+	Option GUIDED, time: 52.6720 msec
+	Option RUNTIME, time: 70.6740 msec
+BETTER OPTION 2, BETTER TIME 31.7205 msec, CHUNK_SIZE = 492
+
+	Option STATIC, time: 46.4789 msec
+	Option DYNAMIC, time: 3.8362 msec
+	Option GUIDED, time: 15.4502 msec
+	Option RUNTIME, time: 64.3960 msec
+BETTER OPTION 2, BETTER TIME 3.8362 msec, CHUNK_SIZE = 493
+
+	Option STATIC, time: 45.8515 msec
+	Option DYNAMIC, time: 35.7708 msec
+	Option GUIDED, time: 22.1266 msec
+	Option RUNTIME, time: 24.2806 msec
+BETTER OPTION 3, BETTER TIME 22.1266 msec, CHUNK_SIZE = 494
+
+	Option STATIC, time: 68.0680 msec
+	Option DYNAMIC, time: 21.9840 msec
+	Option GUIDED, time: 30.6367 msec
+	Option RUNTIME, time: 38.2280 msec
+BETTER OPTION 2, BETTER TIME 21.9840 msec, CHUNK_SIZE = 495
+
+	Option STATIC, time: 63.8245 msec
+	Option DYNAMIC, time: 113.3319 msec
+	Option GUIDED, time: 98.0627 msec
+	Option RUNTIME, time: 36.8366 msec
+BETTER OPTION 4, BETTER TIME 36.8366 msec, CHUNK_SIZE = 496
+
+	Option STATIC, time: 50.8209 msec
+	Option DYNAMIC, time: 31.1998 msec
+	Option GUIDED, time: 16.1272 msec
+	Option RUNTIME, time: 33.6517 msec
+BETTER OPTION 3, BETTER TIME 16.1272 msec, CHUNK_SIZE = 497
+
+	Option STATIC, time: 30.9546 msec
+	Option DYNAMIC, time: 19.9387 msec
+	Option GUIDED, time: 14.9458 msec
+	Option RUNTIME, time: 63.4646 msec
+BETTER OPTION 3, BETTER TIME 14.9458 msec, CHUNK_SIZE = 498
+
+	Option STATIC, time: 22.2830 msec
+	Option DYNAMIC, time: 17.4901 msec
+	Option GUIDED, time: 45.2555 msec
+	Option RUNTIME, time: 20.6185 msec
+BETTER OPTION 2, BETTER TIME 17.4901 msec, CHUNK_SIZE = 499
+
+BETTER Options count:
+STATIC: 65
+DYNAMIC: 153
+GUIDED: 191
+RUNTIME: 91
