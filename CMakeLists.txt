@@ -39,3 +39,15 @@ target_link_libraries(task8 PUBLIC OpenMP::OpenMP_CXX)
 
 add_executable(task9 task9.cpp) # you can change the excutable name
 target_link_libraries(task9 PUBLIC OpenMP::OpenMP_CXX)
+
+add_executable(task10 task10.cpp) # you can change the excutable name
+target_link_libraries(task10 PUBLIC OpenMP::OpenMP_CXX)
+
+add_executable(task11 task11.cpp) # you can change the excutable name
+target_link_libraries(task11 PUBLIC OpenMP::OpenMP_CXX)
+
+add_executable(task12 task12.cpp) # you can change the excutable name
+target_link_libraries(task12 PUBLIC OpenMP::OpenMP_CXX)
+
+add_executable(task13 task13.cpp) # you can change the excutable name
+target_link_libraries(task13 PUBLIC OpenMP::OpenMP_CXX)

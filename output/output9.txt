@@ -1,387 +1,387 @@
-	Option STATIC, time: 120.3334 msec
-	Option DYNAMIC, time: 1.3191 msec
-	Option GUIDED, time: 2.2261 msec
-	Option RUNTIME, time: 0.1391 msec
-	Option NONPARALLEL, time: 0.0903 msec
-BETTER OPTION 5, BETTER TIME 0.0903 msec, CHUNK_SIZE = 0
+	Option STATIC, time: 87.7351 msec
+	Option DYNAMIC, time: 0.6911 msec
+	Option GUIDED, time: 0.2942 msec
+	Option RUNTIME, time: 0.0153 msec
+	Option NONPARALLEL, time: 10.9893 msec
+BETTER OPTION 4, BETTER TIME 0.0153 msec, CHUNK_SIZE = 0
 
-	Option STATIC, time: 0.2697 msec
-	Option DYNAMIC, time: 0.0148 msec
-	Option GUIDED, time: 0.2379 msec
-	Option RUNTIME, time: 4.4581 msec
-	Option NONPARALLEL, time: 5.6900 msec
-BETTER OPTION 2, BETTER TIME 0.0148 msec, CHUNK_SIZE = 4
+	Option STATIC, time: 10.8314 msec
+	Option DYNAMIC, time: 15.0056 msec
+	Option GUIDED, time: 10.8911 msec
+	Option RUNTIME, time: 15.2267 msec
+	Option NONPARALLEL, time: 11.1781 msec
+BETTER OPTION 1, BETTER TIME 10.8314 msec, CHUNK_SIZE = 4
 
-	Option STATIC, time: 5.3367 msec
-	Option DYNAMIC, time: 1.4888 msec
-	Option GUIDED, time: 5.1704 msec
-	Option RUNTIME, time: 1.8950 msec
-	Option NONPARALLEL, time: 0.4927 msec
-BETTER OPTION 5, BETTER TIME 0.4927 msec, CHUNK_SIZE = 8
+	Option STATIC, time: 0.0474 msec
+	Option DYNAMIC, time: 11.0889 msec
+	Option GUIDED, time: 23.0197 msec
+	Option RUNTIME, time: 29.9100 msec
+	Option NONPARALLEL, time: 25.5684 msec
+BETTER OPTION 1, BETTER TIME 0.0474 msec, CHUNK_SIZE = 8
 
-	Option STATIC, time: 0.5116 msec
-	Option DYNAMIC, time: 0.5115 msec
-	Option GUIDED, time: 0.0545 msec
-	Option RUNTIME, time: 0.6540 msec
-	Option NONPARALLEL, time: 3.1076 msec
-BETTER OPTION 3, BETTER TIME 0.0545 msec, CHUNK_SIZE = 12
+	Option STATIC, time: 17.9887 msec
+	Option DYNAMIC, time: 13.7268 msec
+	Option GUIDED, time: 23.0599 msec
+	Option RUNTIME, time: 6.8360 msec
+	Option NONPARALLEL, time: 29.4918 msec
+BETTER OPTION 4, BETTER TIME 6.8360 msec, CHUNK_SIZE = 12
 
-	Option STATIC, time: 0.9313 msec
-	Option DYNAMIC, time: 30.4359 msec
-	Option GUIDED, time: 12.1811 msec
-	Option RUNTIME, time: 2.6518 msec
-	Option NONPARALLEL, time: 1.1545 msec
-BETTER OPTION 1, BETTER TIME 0.9313 msec, CHUNK_SIZE = 16
+	Option STATIC, time: 1.4780 msec
+	Option DYNAMIC, time: 9.5038 msec
+	Option GUIDED, time: 5.0123 msec
+	Option RUNTIME, time: 1.0184 msec
+	Option NONPARALLEL, time: 37.5078 msec
+BETTER OPTION 4, BETTER TIME 1.0184 msec, CHUNK_SIZE = 16
+
+BETTER Options count:
+STATIC: 2
+DYNAMIC: 0
+GUIDED: 0
+RUNTIME: 3
+NONPARALLEL: 0
+MATRIX SIZE: 20
+MATRIX VALUE BARRIER: 20
+	Option STATIC, time: 5.2949 msec
+	Option DYNAMIC, time: 23.4018 msec
+	Option GUIDED, time: 37.3845 msec
+	Option RUNTIME, time: 0.3765 msec
+	Option NONPARALLEL, time: 43.9241 msec
+BETTER OPTION 4, BETTER TIME 0.3765 msec, CHUNK_SIZE = 0
+
+	Option STATIC, time: 2.2196 msec
+	Option DYNAMIC, time: 60.7011 msec
+	Option GUIDED, time: 15.7384 msec
+	Option RUNTIME, time: 31.8830 msec
+	Option NONPARALLEL, time: 21.6558 msec
+BETTER OPTION 1, BETTER TIME 2.2196 msec, CHUNK_SIZE = 4
+
+	Option STATIC, time: 18.6254 msec
+	Option DYNAMIC, time: 25.9673 msec
+	Option GUIDED, time: 16.0984 msec
+	Option RUNTIME, time: 11.3444 msec
+	Option NONPARALLEL, time: 36.7196 msec
+BETTER OPTION 4, BETTER TIME 11.3444 msec, CHUNK_SIZE = 8
+
+	Option STATIC, time: 32.8239 msec
+	Option DYNAMIC, time: 2.0956 msec
+	Option GUIDED, time: 44.6222 msec
+	Option RUNTIME, time: 9.2420 msec
+	Option NONPARALLEL, time: 0.1653 msec
+BETTER OPTION 5, BETTER TIME 0.1653 msec, CHUNK_SIZE = 12
+
+	Option STATIC, time: 28.7591 msec
+	Option DYNAMIC, time: 23.0522 msec
+	Option GUIDED, time: 12.6062 msec
+	Option RUNTIME, time: 35.0224 msec
+	Option NONPARALLEL, time: 20.9411 msec
+BETTER OPTION 3, BETTER TIME 12.6062 msec, CHUNK_SIZE = 16
+
+BETTER Options count:
+STATIC: 1
+DYNAMIC: 0
+GUIDED: 1
+RUNTIME: 2
+NONPARALLEL: 1
+MATRIX SIZE: 40
+MATRIX VALUE BARRIER: 20
+	Option STATIC, time: 21.9956 msec
+	Option DYNAMIC, time: 5.8348 msec
+	Option GUIDED, time: 13.9859 msec
+	Option RUNTIME, time: 29.5985 msec
+	Option NONPARALLEL, time: 12.3714 msec
+BETTER OPTION 2, BETTER TIME 5.8348 msec, CHUNK_SIZE = 0
+
+	Option STATIC, time: 38.4015 msec
+	Option DYNAMIC, time: 7.5932 msec
+	Option GUIDED, time: 12.8184 msec
+	Option RUNTIME, time: 34.3179 msec
+	Option NONPARALLEL, time: 11.6673 msec
+BETTER OPTION 2, BETTER TIME 7.5932 msec, CHUNK_SIZE = 4
+
+	Option STATIC, time: 22.7901 msec
+	Option DYNAMIC, time: 15.9591 msec
+	Option GUIDED, time: 29.9078 msec
+	Option RUNTIME, time: 7.5554 msec
+	Option NONPARALLEL, time: 35.5439 msec
+BETTER OPTION 4, BETTER TIME 7.5554 msec, CHUNK_SIZE = 8
+
+	Option STATIC, time: 7.4395 msec
+	Option DYNAMIC, time: 27.9571 msec
+	Option GUIDED, time: 3.9011 msec
+	Option RUNTIME, time: 16.0129 msec
+	Option NONPARALLEL, time: 23.1206 msec
+BETTER OPTION 3, BETTER TIME 3.9011 msec, CHUNK_SIZE = 12
+
+	Option STATIC, time: 4.2656 msec
+	Option DYNAMIC, time: 6.2529 msec
+	Option GUIDED, time: 7.4678 msec
+	Option RUNTIME, time: 18.4831 msec
+	Option NONPARALLEL, time: 27.7025 msec
+BETTER OPTION 1, BETTER TIME 4.2656 msec, CHUNK_SIZE = 16
+
+BETTER Options count:
+STATIC: 1
+DYNAMIC: 2
+GUIDED: 1
+RUNTIME: 1
+NONPARALLEL: 0
+MATRIX SIZE: 60
+MATRIX VALUE BARRIER: 20
+	Option STATIC, time: 9.9586 msec
+	Option DYNAMIC, time: 31.5975 msec
+	Option GUIDED, time: 28.2502 msec
+	Option RUNTIME, time: 50.6969 msec
+	Option NONPARALLEL, time: 1.9790 msec
+BETTER OPTION 5, BETTER TIME 1.9790 msec, CHUNK_SIZE = 0
+
+	Option STATIC, time: 2.7753 msec
+	Option DYNAMIC, time: 23.9861 msec
+	Option GUIDED, time: 24.7360 msec
+	Option RUNTIME, time: 1.1283 msec
+	Option NONPARALLEL, time: 7.0745 msec
+BETTER OPTION 4, BETTER TIME 1.1283 msec, CHUNK_SIZE = 4
+
+	Option STATIC, time: 33.9663 msec
+	Option DYNAMIC, time: 2.7262 msec
+	Option GUIDED, time: 8.3328 msec
+	Option RUNTIME, time: 33.3849 msec
+	Option NONPARALLEL, time: 10.6328 msec
+BETTER OPTION 2, BETTER TIME 2.7262 msec, CHUNK_SIZE = 8
+
+	Option STATIC, time: 18.2614 msec
+	Option DYNAMIC, time: 14.7145 msec
+	Option GUIDED, time: 4.9893 msec
+	Option RUNTIME, time: 13.0646 msec
+	Option NONPARALLEL, time: 28.0189 msec
+BETTER OPTION 3, BETTER TIME 4.9893 msec, CHUNK_SIZE = 12
+
+	Option STATIC, time: 4.8671 msec
+	Option DYNAMIC, time: 27.6420 msec
+	Option GUIDED, time: 21.6230 msec
+	Option RUNTIME, time: 5.5314 msec
+	Option NONPARALLEL, time: 38.0977 msec
+BETTER OPTION 1, BETTER TIME 4.8671 msec, CHUNK_SIZE = 16
 
 BETTER Options count:
 STATIC: 1
 DYNAMIC: 1
 GUIDED: 1
+RUNTIME: 1
+NONPARALLEL: 1
+MATRIX SIZE: 80
+MATRIX VALUE BARRIER: 20
+	Option STATIC, time: 35.5556 msec
+	Option DYNAMIC, time: 14.0486 msec
+	Option GUIDED, time: 16.9026 msec
+	Option RUNTIME, time: 32.5967 msec
+	Option NONPARALLEL, time: 6.3862 msec
+BETTER OPTION 5, BETTER TIME 6.3862 msec, CHUNK_SIZE = 0
+
+	Option STATIC, time: 44.1736 msec
+	Option DYNAMIC, time: 4.1791 msec
+	Option GUIDED, time: 0.6515 msec
+	Option RUNTIME, time: 1.5820 msec
+	Option NONPARALLEL, time: 1.8657 msec
+BETTER OPTION 3, BETTER TIME 0.6515 msec, CHUNK_SIZE = 4
+
+	Option STATIC, time: 21.1908 msec
+	Option DYNAMIC, time: 22.1169 msec
+	Option GUIDED, time: 18.5189 msec
+	Option RUNTIME, time: 29.5775 msec
+	Option NONPARALLEL, time: 3.7779 msec
+BETTER OPTION 5, BETTER TIME 3.7779 msec, CHUNK_SIZE = 8
+
+	Option STATIC, time: 2.8193 msec
+	Option DYNAMIC, time: 0.0467 msec
+	Option GUIDED, time: 0.0342 msec
+	Option RUNTIME, time: 0.0181 msec
+	Option NONPARALLEL, time: 0.0291 msec
+BETTER OPTION 4, BETTER TIME 0.0181 msec, CHUNK_SIZE = 12
+
+	Option STATIC, time: 9.9649 msec
+	Option DYNAMIC, time: 0.1224 msec
+	Option GUIDED, time: 1.9506 msec
+	Option RUNTIME, time: 31.2329 msec
+	Option NONPARALLEL, time: 17.2240 msec
+BETTER OPTION 2, BETTER TIME 0.1224 msec, CHUNK_SIZE = 16
+
+BETTER Options count:
+STATIC: 0
+DYNAMIC: 1
+GUIDED: 1
+RUNTIME: 1
+NONPARALLEL: 2
+MATRIX SIZE: 100
+MATRIX VALUE BARRIER: 20
+	Option STATIC, time: 34.6769 msec
+	Option DYNAMIC, time: 3.8493 msec
+	Option GUIDED, time: 7.6648 msec
+	Option RUNTIME, time: 35.9174 msec
+	Option NONPARALLEL, time: 5.5874 msec
+BETTER OPTION 2, BETTER TIME 3.8493 msec, CHUNK_SIZE = 0
+
+	Option STATIC, time: 33.9402 msec
+	Option DYNAMIC, time: 16.0829 msec
+	Option GUIDED, time: 31.8591 msec
+	Option RUNTIME, time: 4.9462 msec
+	Option NONPARALLEL, time: 29.8401 msec
+BETTER OPTION 4, BETTER TIME 4.9462 msec, CHUNK_SIZE = 4
+
+	Option STATIC, time: 11.6139 msec
+	Option DYNAMIC, time: 5.0584 msec
+	Option GUIDED, time: 34.2618 msec
+	Option RUNTIME, time: 47.3046 msec
+	Option NONPARALLEL, time: 63.9377 msec
+BETTER OPTION 2, BETTER TIME 5.0584 msec, CHUNK_SIZE = 8
+
+	Option STATIC, time: 41.8135 msec
+	Option DYNAMIC, time: 49.0160 msec
+	Option GUIDED, time: 29.7113 msec
+	Option RUNTIME, time: 11.1900 msec
+	Option NONPARALLEL, time: 5.5030 msec
+BETTER OPTION 5, BETTER TIME 5.5030 msec, CHUNK_SIZE = 12
+
+	Option STATIC, time: 33.2597 msec
+	Option DYNAMIC, time: 33.2850 msec
+	Option GUIDED, time: 13.3196 msec
+	Option RUNTIME, time: 19.2864 msec
+	Option NONPARALLEL, time: 27.1972 msec
+BETTER OPTION 3, BETTER TIME 13.3196 msec, CHUNK_SIZE = 16
+
+BETTER Options count:
+STATIC: 0
+DYNAMIC: 2
+GUIDED: 1
+RUNTIME: 1
+NONPARALLEL: 1
+MATRIX SIZE: 120
+MATRIX VALUE BARRIER: 20
+	Option STATIC, time: 21.9507 msec
+	Option DYNAMIC, time: 21.4494 msec
+	Option GUIDED, time: 11.5028 msec
+	Option RUNTIME, time: 28.8285 msec
+	Option NONPARALLEL, time: 3.1335 msec
+BETTER OPTION 5, BETTER TIME 3.1335 msec, CHUNK_SIZE = 0
+
+	Option STATIC, time: 19.1312 msec
+	Option DYNAMIC, time: 14.8953 msec
+	Option GUIDED, time: 6.0008 msec
+	Option RUNTIME, time: 21.2392 msec
+	Option NONPARALLEL, time: 27.4012 msec
+BETTER OPTION 3, BETTER TIME 6.0008 msec, CHUNK_SIZE = 4
+
+	Option STATIC, time: 5.5554 msec
+	Option DYNAMIC, time: 17.0539 msec
+	Option GUIDED, time: 24.3220 msec
+	Option RUNTIME, time: 11.6964 msec
+	Option NONPARALLEL, time: 33.9041 msec
+BETTER OPTION 1, BETTER TIME 5.5554 msec, CHUNK_SIZE = 8
+
+	Option STATIC, time: 1.1126 msec
+	Option DYNAMIC, time: 51.2700 msec
+	Option GUIDED, time: 8.7108 msec
+	Option RUNTIME, time: 8.9755 msec
+	Option NONPARALLEL, time: 42.1944 msec
+BETTER OPTION 1, BETTER TIME 1.1126 msec, CHUNK_SIZE = 12
+
+	Option STATIC, time: 33.7844 msec
+	Option DYNAMIC, time: 15.4077 msec
+	Option GUIDED, time: 11.7560 msec
+	Option RUNTIME, time: 0.4562 msec
+	Option NONPARALLEL, time: 0.0405 msec
+BETTER OPTION 5, BETTER TIME 0.0405 msec, CHUNK_SIZE = 16
+
+BETTER Options count:
+STATIC: 2
+DYNAMIC: 0
+GUIDED: 1
 RUNTIME: 0
 NONPARALLEL: 2
-MATRIX SIZE: 20
+MATRIX SIZE: 140
 MATRIX VALUE BARRIER: 20
-	Option STATIC, time: 0.8498 msec
-	Option DYNAMIC, time: 0.0320 msec
-	Option GUIDED, time: 0.0543 msec
-	Option RUNTIME, time: 0.3228 msec
-	Option NONPARALLEL, time: 0.2074 msec
-BETTER OPTION 2, BETTER TIME 0.0320 msec, CHUNK_SIZE = 0
+	Option STATIC, time: 9.9340 msec
+	Option DYNAMIC, time: 35.2182 msec
+	Option GUIDED, time: 18.6050 msec
+	Option RUNTIME, time: 40.1326 msec
+	Option NONPARALLEL, time: 41.6961 msec
+BETTER OPTION 1, BETTER TIME 9.9340 msec, CHUNK_SIZE = 0
 
-	Option STATIC, time: 0.0179 msec
-	Option DYNAMIC, time: 0.2529 msec
-	Option GUIDED, time: 0.4020 msec
-	Option RUNTIME, time: 0.2524 msec
-	Option NONPARALLEL, time: 0.0372 msec
-BETTER OPTION 1, BETTER TIME 0.0179 msec, CHUNK_SIZE = 4
+	Option STATIC, time: 21.3220 msec
+	Option DYNAMIC, time: 20.1806 msec
+	Option GUIDED, time: 9.7535 msec
+	Option RUNTIME, time: 24.7885 msec
+	Option NONPARALLEL, time: 43.2626 msec
+BETTER OPTION 3, BETTER TIME 9.7535 msec, CHUNK_SIZE = 4
 
-	Option STATIC, time: 0.0735 msec
-	Option DYNAMIC, time: 0.0810 msec
-	Option GUIDED, time: 0.3771 msec
-	Option RUNTIME, time: 1.7450 msec
-	Option NONPARALLEL, time: 5.8018 msec
-BETTER OPTION 1, BETTER TIME 0.0735 msec, CHUNK_SIZE = 8
+	Option STATIC, time: 8.8859 msec
+	Option DYNAMIC, time: 45.7285 msec
+	Option GUIDED, time: 44.3881 msec
+	Option RUNTIME, time: 58.0302 msec
+	Option NONPARALLEL, time: 14.9550 msec
+BETTER OPTION 1, BETTER TIME 8.8859 msec, CHUNK_SIZE = 8
 
-	Option STATIC, time: 8.2253 msec
-	Option DYNAMIC, time: 1.3363 msec
-	Option GUIDED, time: 0.0404 msec
-	Option RUNTIME, time: 0.1125 msec
-	Option NONPARALLEL, time: 5.9224 msec
-BETTER OPTION 3, BETTER TIME 0.0404 msec, CHUNK_SIZE = 12
+	Option STATIC, time: 36.8011 msec
+	Option DYNAMIC, time: 13.1870 msec
+	Option GUIDED, time: 72.9816 msec
+	Option RUNTIME, time: 21.8096 msec
+	Option NONPARALLEL, time: 15.4936 msec
+BETTER OPTION 2, BETTER TIME 13.1870 msec, CHUNK_SIZE = 12
 
-	Option STATIC, time: 16.9058 msec
-	Option DYNAMIC, time: 2.3068 msec
-	Option GUIDED, time: 3.7059 msec
-	Option RUNTIME, time: 1.1548 msec
-	Option NONPARALLEL, time: 0.4036 msec
-BETTER OPTION 5, BETTER TIME 0.4036 msec, CHUNK_SIZE = 16
+	Option STATIC, time: 42.9144 msec
+	Option DYNAMIC, time: 2.4876 msec
+	Option GUIDED, time: 2.3684 msec
+	Option RUNTIME, time: 53.2036 msec
+	Option NONPARALLEL, time: 7.5017 msec
+BETTER OPTION 3, BETTER TIME 2.3684 msec, CHUNK_SIZE = 16
 
 BETTER Options count:
 STATIC: 2
 DYNAMIC: 1
-GUIDED: 1
-RUNTIME: 0
-NONPARALLEL: 1
-MATRIX SIZE: 40
-MATRIX VALUE BARRIER: 20
-	Option STATIC, time: 0.9797 msec
-	Option DYNAMIC, time: 0.6835 msec
-	Option GUIDED, time: 6.3321 msec
-	Option RUNTIME, time: 2.2778 msec
-	Option NONPARALLEL, time: 0.3718 msec
-BETTER OPTION 5, BETTER TIME 0.3718 msec, CHUNK_SIZE = 0
-
-	Option STATIC, time: 0.3644 msec
-	Option DYNAMIC, time: 0.1699 msec
-	Option GUIDED, time: 1.0306 msec
-	Option RUNTIME, time: 7.3239 msec
-	Option NONPARALLEL, time: 7.1348 msec
-BETTER OPTION 2, BETTER TIME 0.1699 msec, CHUNK_SIZE = 4
-
-	Option STATIC, time: 1.4126 msec
-	Option DYNAMIC, time: 9.7694 msec
-	Option GUIDED, time: 2.0333 msec
-	Option RUNTIME, time: 0.4437 msec
-	Option NONPARALLEL, time: 0.2334 msec
-BETTER OPTION 5, BETTER TIME 0.2334 msec, CHUNK_SIZE = 8
-
-	Option STATIC, time: 0.3311 msec
-	Option DYNAMIC, time: 1.6751 msec
-	Option GUIDED, time: 0.1454 msec
-	Option RUNTIME, time: 0.5742 msec
-	Option NONPARALLEL, time: 2.9437 msec
-BETTER OPTION 3, BETTER TIME 0.1454 msec, CHUNK_SIZE = 12
-
-	Option STATIC, time: 10.7328 msec
-	Option DYNAMIC, time: 2.5845 msec
-	Option GUIDED, time: 7.8597 msec
-	Option RUNTIME, time: 6.0962 msec
-	Option NONPARALLEL, time: 3.0706 msec
-BETTER OPTION 2, BETTER TIME 2.5845 msec, CHUNK_SIZE = 16
-
-BETTER Options count:
-STATIC: 0
-DYNAMIC: 2
-GUIDED: 1
-RUNTIME: 0
-NONPARALLEL: 2
-MATRIX SIZE: 60
-MATRIX VALUE BARRIER: 20
-	Option STATIC, time: 11.1477 msec
-	Option DYNAMIC, time: 0.8002 msec
-	Option GUIDED, time: 2.5804 msec
-	Option RUNTIME, time: 1.7831 msec
-	Option NONPARALLEL, time: 4.2304 msec
-BETTER OPTION 2, BETTER TIME 0.8002 msec, CHUNK_SIZE = 0
-
-	Option STATIC, time: 12.3342 msec
-	Option DYNAMIC, time: 32.1602 msec
-	Option GUIDED, time: 9.1059 msec
-	Option RUNTIME, time: 11.5319 msec
-	Option NONPARALLEL, time: 1.3283 msec
-BETTER OPTION 5, BETTER TIME 1.3283 msec, CHUNK_SIZE = 4
-
-	Option STATIC, time: 4.1212 msec
-	Option DYNAMIC, time: 0.6602 msec
-	Option GUIDED, time: 1.7982 msec
-	Option RUNTIME, time: 1.8463 msec
-	Option NONPARALLEL, time: 0.1632 msec
-BETTER OPTION 5, BETTER TIME 0.1632 msec, CHUNK_SIZE = 8
-
-	Option STATIC, time: 0.0923 msec
-	Option DYNAMIC, time: 0.8886 msec
-	Option GUIDED, time: 1.1100 msec
-	Option RUNTIME, time: 3.5490 msec
-	Option NONPARALLEL, time: 1.9581 msec
-BETTER OPTION 1, BETTER TIME 0.0923 msec, CHUNK_SIZE = 12
-
-	Option STATIC, time: 2.3802 msec
-	Option DYNAMIC, time: 0.6935 msec
-	Option GUIDED, time: 2.5239 msec
-	Option RUNTIME, time: 4.1550 msec
-	Option NONPARALLEL, time: 2.6051 msec
-BETTER OPTION 2, BETTER TIME 0.6935 msec, CHUNK_SIZE = 16
-
-BETTER Options count:
-STATIC: 1
-DYNAMIC: 2
-GUIDED: 0
-RUNTIME: 0
-NONPARALLEL: 2
-MATRIX SIZE: 80
-MATRIX VALUE BARRIER: 20
-	Option STATIC, time: 0.1855 msec
-	Option DYNAMIC, time: 0.0839 msec
-	Option GUIDED, time: 0.6407 msec
-	Option RUNTIME, time: 5.5243 msec
-	Option NONPARALLEL, time: 0.7270 msec
-BETTER OPTION 2, BETTER TIME 0.0839 msec, CHUNK_SIZE = 0
-
-	Option STATIC, time: 2.0591 msec
-	Option DYNAMIC, time: 0.3067 msec
-	Option GUIDED, time: 0.8241 msec
-	Option RUNTIME, time: 0.1469 msec
-	Option NONPARALLEL, time: 1.4159 msec
-BETTER OPTION 4, BETTER TIME 0.1469 msec, CHUNK_SIZE = 4
-
-	Option STATIC, time: 0.3142 msec
-	Option DYNAMIC, time: 3.8518 msec
-	Option GUIDED, time: 2.2174 msec
-	Option RUNTIME, time: 3.7199 msec
-	Option NONPARALLEL, time: 1.6128 msec
-BETTER OPTION 1, BETTER TIME 0.3142 msec, CHUNK_SIZE = 8
-
-	Option STATIC, time: 0.5584 msec
-	Option DYNAMIC, time: 0.0690 msec
-	Option GUIDED, time: 0.1687 msec
-	Option RUNTIME, time: 0.3684 msec
-	Option NONPARALLEL, time: 3.1740 msec
-BETTER OPTION 2, BETTER TIME 0.0690 msec, CHUNK_SIZE = 12
-
-	Option STATIC, time: 2.1040 msec
-	Option DYNAMIC, time: 1.7041 msec
-	Option GUIDED, time: 0.1152 msec
-	Option RUNTIME, time: 7.4302 msec
-	Option NONPARALLEL, time: 3.3375 msec
-BETTER OPTION 3, BETTER TIME 0.1152 msec, CHUNK_SIZE = 16
-
-BETTER Options count:
-STATIC: 1
-DYNAMIC: 2
-GUIDED: 1
-RUNTIME: 1
-NONPARALLEL: 0
-MATRIX SIZE: 100
-MATRIX VALUE BARRIER: 20
-	Option STATIC, time: 2.0161 msec
-	Option DYNAMIC, time: 2.1414 msec
-	Option GUIDED, time: 4.3147 msec
-	Option RUNTIME, time: 1.2833 msec
-	Option NONPARALLEL, time: 1.5153 msec
-BETTER OPTION 4, BETTER TIME 1.2833 msec, CHUNK_SIZE = 0
-
-	Option STATIC, time: 0.2130 msec
-	Option DYNAMIC, time: 1.5529 msec
-	Option GUIDED, time: 0.7234 msec
-	Option RUNTIME, time: 1.7604 msec
-	Option NONPARALLEL, time: 1.7210 msec
-BETTER OPTION 1, BETTER TIME 0.2130 msec, CHUNK_SIZE = 4
-
-	Option STATIC, time: 0.7470 msec
-	Option DYNAMIC, time: 0.6848 msec
-	Option GUIDED, time: 0.8403 msec
-	Option RUNTIME, time: 2.0292 msec
-	Option NONPARALLEL, time: 4.3081 msec
-BETTER OPTION 2, BETTER TIME 0.6848 msec, CHUNK_SIZE = 8
-
-	Option STATIC, time: 1.5290 msec
-	Option DYNAMIC, time: 0.8749 msec
-	Option GUIDED, time: 0.2354 msec
-	Option RUNTIME, time: 0.3762 msec
-	Option NONPARALLEL, time: 0.4039 msec
-BETTER OPTION 3, BETTER TIME 0.2354 msec, CHUNK_SIZE = 12
-
-	Option STATIC, time: 0.2823 msec
-	Option DYNAMIC, time: 0.3108 msec
-	Option GUIDED, time: 0.1300 msec
-	Option RUNTIME, time: 0.6567 msec
-	Option NONPARALLEL, time: 0.7130 msec
-BETTER OPTION 3, BETTER TIME 0.1300 msec, CHUNK_SIZE = 16
-
-BETTER Options count:
-STATIC: 1
-DYNAMIC: 1
 GUIDED: 2
-RUNTIME: 1
-NONPARALLEL: 0
-MATRIX SIZE: 120
-MATRIX VALUE BARRIER: 20
-	Option STATIC, time: 0.7064 msec
-	Option DYNAMIC, time: 0.2597 msec
-	Option GUIDED, time: 4.4317 msec
-	Option RUNTIME, time: 9.1182 msec
-	Option NONPARALLEL, time: 5.9372 msec
-BETTER OPTION 2, BETTER TIME 0.2597 msec, CHUNK_SIZE = 0
-
-	Option STATIC, time: 23.1117 msec
-	Option DYNAMIC, time: 18.8101 msec
-	Option GUIDED, time: 3.6685 msec
-	Option RUNTIME, time: 12.1625 msec
-	Option NONPARALLEL, time: 2.0139 msec
-BETTER OPTION 5, BETTER TIME 2.0139 msec, CHUNK_SIZE = 4
-
-	Option STATIC, time: 12.5465 msec
-	Option DYNAMIC, time: 13.3701 msec
-	Option GUIDED, time: 6.7379 msec
-	Option RUNTIME, time: 13.0375 msec
-	Option NONPARALLEL, time: 10.6228 msec
-BETTER OPTION 3, BETTER TIME 6.7379 msec, CHUNK_SIZE = 8
-
-	Option STATIC, time: 2.0504 msec
-	Option DYNAMIC, time: 6.0506 msec
-	Option GUIDED, time: 6.7242 msec
-	Option RUNTIME, time: 5.3441 msec
-	Option NONPARALLEL, time: 1.3202 msec
-BETTER OPTION 5, BETTER TIME 1.3202 msec, CHUNK_SIZE = 12
-
-	Option STATIC, time: 9.1155 msec
-	Option DYNAMIC, time: 9.1242 msec
-	Option GUIDED, time: 11.1927 msec
-	Option RUNTIME, time: 2.5123 msec
-	Option NONPARALLEL, time: 2.4706 msec
-BETTER OPTION 5, BETTER TIME 2.4706 msec, CHUNK_SIZE = 16
-
-BETTER Options count:
-STATIC: 0
-DYNAMIC: 1
-GUIDED: 1
 RUNTIME: 0
-NONPARALLEL: 3
-MATRIX SIZE: 140
-MATRIX VALUE BARRIER: 20
-	Option STATIC, time: 2.6995 msec
-	Option DYNAMIC, time: 7.1717 msec
-	Option GUIDED, time: 2.4775 msec
-	Option RUNTIME, time: 29.0742 msec
-	Option NONPARALLEL, time: 6.7270 msec
-BETTER OPTION 3, BETTER TIME 2.4775 msec, CHUNK_SIZE = 0
-
-	Option STATIC, time: 1.8370 msec
-	Option DYNAMIC, time: 0.4947 msec
-	Option GUIDED, time: 10.1950 msec
-	Option RUNTIME, time: 4.1588 msec
-	Option NONPARALLEL, time: 10.5697 msec
-BETTER OPTION 2, BETTER TIME 0.4947 msec, CHUNK_SIZE = 4
-
-	Option STATIC, time: 2.0784 msec
-	Option DYNAMIC, time: 2.9552 msec
-	Option GUIDED, time: 2.2238 msec
-	Option RUNTIME, time: 7.9899 msec
-	Option NONPARALLEL, time: 7.3219 msec
-BETTER OPTION 1, BETTER TIME 2.0784 msec, CHUNK_SIZE = 8
-
-	Option STATIC, time: 10.0714 msec
-	Option DYNAMIC, time: 0.7118 msec
-	Option GUIDED, time: 14.5487 msec
-	Option RUNTIME, time: 2.7354 msec
-	Option NONPARALLEL, time: 32.5928 msec
-BETTER OPTION 2, BETTER TIME 0.7118 msec, CHUNK_SIZE = 12
-
-	Option STATIC, time: 43.6330 msec
-	Option DYNAMIC, time: 26.0597 msec
-	Option GUIDED, time: 15.2495 msec
-	Option RUNTIME, time: 3.5822 msec
-	Option NONPARALLEL, time: 4.0542 msec
-BETTER OPTION 4, BETTER TIME 3.5822 msec, CHUNK_SIZE = 16
-
-BETTER Options count:
-STATIC: 1
-DYNAMIC: 2
-GUIDED: 1
-RUNTIME: 1
 NONPARALLEL: 0
 MATRIX SIZE: 160
 MATRIX VALUE BARRIER: 20
-	Option STATIC, time: 17.0145 msec
-	Option DYNAMIC, time: 23.1268 msec
-	Option GUIDED, time: 1.7079 msec
-	Option RUNTIME, time: 9.3033 msec
-	Option NONPARALLEL, time: 4.6646 msec
-BETTER OPTION 3, BETTER TIME 1.7079 msec, CHUNK_SIZE = 0
+	Option STATIC, time: 33.8190 msec
+	Option DYNAMIC, time: 5.5693 msec
+	Option GUIDED, time: 30.7287 msec
+	Option RUNTIME, time: 25.6388 msec
+	Option NONPARALLEL, time: 19.9839 msec
+BETTER OPTION 2, BETTER TIME 5.5693 msec, CHUNK_SIZE = 0
 
-	Option STATIC, time: 30.3250 msec
-	Option DYNAMIC, time: 1.8171 msec
-	Option GUIDED, time: 4.4181 msec
-	Option RUNTIME, time: 4.9347 msec
-	Option NONPARALLEL, time: 4.7464 msec
-BETTER OPTION 2, BETTER TIME 1.8171 msec, CHUNK_SIZE = 4
+	Option STATIC, time: 30.1251 msec
+	Option DYNAMIC, time: 2.7418 msec
+	Option GUIDED, time: 3.4589 msec
+	Option RUNTIME, time: 9.5795 msec
+	Option NONPARALLEL, time: 41.1223 msec
+BETTER OPTION 2, BETTER TIME 2.7418 msec, CHUNK_SIZE = 4
 
-	Option STATIC, time: 7.4043 msec
-	Option DYNAMIC, time: 14.6149 msec
-	Option GUIDED, time: 4.1854 msec
-	Option RUNTIME, time: 32.8528 msec
-	Option NONPARALLEL, time: 8.0674 msec
-BETTER OPTION 3, BETTER TIME 4.1854 msec, CHUNK_SIZE = 8
+	Option STATIC, time: 3.9742 msec
+	Option DYNAMIC, time: 0.8448 msec
+	Option GUIDED, time: 1.9979 msec
+	Option RUNTIME, time: 42.0091 msec
+	Option NONPARALLEL, time: 1.3762 msec
+BETTER OPTION 2, BETTER TIME 0.8448 msec, CHUNK_SIZE = 8
 
-	Option STATIC, time: 8.1997 msec
-	Option DYNAMIC, time: 6.4368 msec
-	Option GUIDED, time: 12.2818 msec
-	Option RUNTIME, time: 11.4833 msec
-	Option NONPARALLEL, time: 11.5507 msec
-BETTER OPTION 2, BETTER TIME 6.4368 msec, CHUNK_SIZE = 12
+	Option STATIC, time: 52.6259 msec
+	Option DYNAMIC, time: 3.0439 msec
+	Option GUIDED, time: 13.3851 msec
+	Option RUNTIME, time: 54.0507 msec
+	Option NONPARALLEL, time: 20.2765 msec
+BETTER OPTION 2, BETTER TIME 3.0439 msec, CHUNK_SIZE = 12
 
-	Option STATIC, time: 4.3013 msec
-	Option DYNAMIC, time: 6.4523 msec
-	Option GUIDED, time: 12.4712 msec
-	Option RUNTIME, time: 10.6632 msec
-	Option NONPARALLEL, time: 1.2590 msec
-BETTER OPTION 5, BETTER TIME 1.2590 msec, CHUNK_SIZE = 16
+	Option STATIC, time: 5.6368 msec
+	Option DYNAMIC, time: 49.2659 msec
+	Option GUIDED, time: 6.3901 msec
+	Option RUNTIME, time: 11.8349 msec
+	Option NONPARALLEL, time: 21.6699 msec
+BETTER OPTION 1, BETTER TIME 5.6368 msec, CHUNK_SIZE = 16
 
 BETTER Options count:
-STATIC: 0
-DYNAMIC: 2
-GUIDED: 2
+STATIC: 1
+DYNAMIC: 4
+GUIDED: 0
 RUNTIME: 0
-NONPARALLEL: 1
+NONPARALLEL: 0
 MATRIX SIZE: 180
 MATRIX VALUE BARRIER: 20

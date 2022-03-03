@@ -1,0 +1,34 @@
+Hello World!	omp_get_thread_num 7, omp_get_num_threads 8
+Hello World!	omp_get_thread_num 6, omp_get_num_threads 8
+Hello World!	omp_get_thread_num 5, omp_get_num_threads 8
+Hello World!	omp_get_thread_num 4, omp_get_num_threads 8
+Hello World!	omp_get_thread_num 3, omp_get_num_threads 8
+Hello World!	omp_get_thread_num 2, omp_get_num_threads 8
+Hello World!	omp_get_thread_num 1, omp_get_num_threads 8
+Hello World!	omp_get_thread_num 0, omp_get_num_threads 8
+Hello World!	omp_get_thread_num 7, omp_get_num_threads 8
+Hello World!	omp_get_thread_num 6, omp_get_num_threads 8
+Hello World!	omp_get_thread_num 5, omp_get_num_threads 8
+Hello World!	omp_get_thread_num 4, omp_get_num_threads 8
+Hello World!	omp_get_thread_num 3, omp_get_num_threads 8
+Hello World!	omp_get_thread_num 2, omp_get_num_threads 8
+Hello World!	omp_get_thread_num 1, omp_get_num_threads 8
+Hello World!	omp_get_thread_num 0, omp_get_num_threads 8
+Hello World!	omp_get_thread_num 7, omp_get_num_threads 8
+Hello World!	omp_get_thread_num 6, omp_get_num_threads 8
+Hello World!	omp_get_thread_num 5, omp_get_num_threads 8
+Hello World!	omp_get_thread_num 4, omp_get_num_threads 8
+Hello World!	omp_get_thread_num 3, omp_get_num_threads 8
+Hello World!	omp_get_thread_num 2, omp_get_num_threads 8
+Hello World!	omp_get_thread_num 1, omp_get_num_threads 8
+Hello World!	omp_get_thread_num 0, omp_get_num_threads 8
+Hello World!	omp_get_thread_num 7, omp_get_num_threads 8
+Hello World!	omp_get_thread_num 6, omp_get_num_threads 8
+Hello World!	omp_get_thread_num 5, omp_get_num_threads 8
+Hello World!	omp_get_thread_num 4, omp_get_num_threads 8
+Hello World!	omp_get_thread_num 3, omp_get_num_threads 8
+Hello World!	omp_get_thread_num 2, omp_get_num_threads 8
+Hello World!	omp_get_thread_num 1, omp_get_num_threads 8
+Hello World!	omp_get_thread_num 0, omp_get_num_threads 8
+
+exititng 0

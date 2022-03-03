@@ -1,4 +1,4 @@
 parallel area number 0
-min a =5 
+min a =19 
 parallel area number 1
-max b =88 
+max b =97 
